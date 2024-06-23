@@ -18,9 +18,13 @@
             margin: 0;
             padding: 0;
             line-height: 1.6;
+            display: grid;
+            grid-template-columns: 1fr 2fr;
+            gap: 20px;
         }
 
         header {
+            grid-column: 1 / span 2;
             display: flex;
             justify-content: space-between;
             align-items: center;
@@ -57,6 +61,7 @@
         }
 
         nav {
+            grid-column: 1 / span 2;
             display: flex;
             justify-content: center;
             align-items: center;
@@ -79,13 +84,14 @@
         }
 
         .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
         }
 
-        section {
-            margin-bottom: 40px;
+        .left-column,
+        .right-column {
+            padding: 20px;
         }
 
         h2 {
@@ -123,6 +129,7 @@
         }
 
         footer {
+            grid-column: 1 / span 2;
             background-color: #292929;
             color: #F7F7F7;
             text-align: center;
@@ -148,6 +155,10 @@
         }
 
         @media (max-width: 768px) {
+            body {
+                grid-template-columns: 1fr;
+            }
+
             header {
                 flex-direction: column;
                 text-align: center;
@@ -186,7 +197,7 @@
     <nav>
         <a href="./YingyiZhang_CV.pdf" target="_blank">Resume</a>
     </nav>
-    <div class="container">
+    <div class="left-column">
         <section>
             <h2>Education</h2>
             <ul>
@@ -196,14 +207,17 @@
                     <span>- Research focus: Consumer theory-driven recommendation.</span>
                 </li>
                 <li>
-                    <strong>Dalian University of Technology (DUT)</strong>, Dalian<br>
+                    <strong>Dalian University of Technology (DLUT)</strong>, Dalian<br>
                     <em>PhD. student in Management Science and Engineering</em>, Sep. 2020 - Now<br>
-                    <span>- Research focus: Diversified recommendation methods for O2O e-commerce, consumer behavior and intention modeling, multi-task and multi-domain recommendation.</span>
+                    <span>- Research focus: Diversified recommendation methods for O2O e-commerce, consumer behavior
+                        and
+                        intention modeling, multi-task and multi-domain recommendation.</span>
                 </li>
                 <li>
-                    <strong>Dalian University of Technology (DUT)</strong>, Dalian<br>
+                    <strong>Dalian University of Technology (DLUT)</strong>, Dalian<br>
                     <em>BS in Information Management and System</em>, Sep. 2016 - Jun. 2020<br>
-                    <span>- Relevant coursework: Data Structures, Algorithms, Database Systems, Information Retrieval, Statistics, Machine Learning.</span>
+                    <span>- Relevant coursework: Data Structures, Algorithms, Database Systems, Information Retrieval,
+                        Statistics, Machine Learning.</span>
                 </li>
             </ul>
         </section>
@@ -218,6 +232,8 @@
                 <li>Languages: Chinese (Native), English</li>
             </ul>
         </section>
+    </div>
+    <div class="right-column">
         <section>
             <h2>Publications</h2>
             <ol>
@@ -243,30 +259,40 @@
                         Management (CIKM), October 17-21, 2022, Atlanta, USA, <a
                         href="https://ceur-ws.org/Vol-3317/Paper4.pdf">[Link]</a></p>
                 </li>
+				<li>
+                    <p>Zerong Lan, Yingyi Zhang and Xianneng Li*, M3REC: A Meta-based Multi-scenario Multi-task Recommendation Framework, In Proceed-
+						ings of the 17th ACM Conference on Recommender Systems (RecSys ’23). 18th-22nd September 2023, Singapore. <a
+                        href="https://https://dl.acm.org/doi/10.1145/3604915.3608828">[Link]</a></p>
+                </li>
+				<li>
+                    <p>Yudi Xiao, Yingyi Zhang and Xianneng Li*, Modeling Variational Anchoring Effect for Recommender Systems,In the 2024 IEEE Conference on Artificial Intelligence (IEEE CAI 2024) </p>
+                </li>
+				<li>
+                    <p>Yingyi Zhang, Jianwei Liu, Xianneng Li*, et al. Motivating Image-Share Behavior of Consumer from Self-Reference Perspective. <strong>Working paper</strong></p>
+                </li>
             </ol>
         </section>
         <section>
             <h2>Research Projects</h2>
             <ul>
                 <li>
-                    <h3>Research on Diversified Recommendation Methods Facing Uncertainty of Consumer Demand in O2O
-                        E-commerce</h3>
-                    <p>National Natural Science Foundation of China of Grant 72071029, PI (Xianneng Li), Sep. 2020 -
-                        Now</p>
+                    <h3>Research on Diversified Recommendation Methods Facing Uncertainty of Consumer Decision
+                        Process</h3>
+                    <p>National Natural Science Foundation of China, PI (Xianneng Li), Jan. 2023 - Dec. 2026</p>
                     <ul>
-                        <li>Review-based Recommendation Algorithm</li>
-                        <li>Consumer Behavior and Intention Modeling</li>
-                        <li>Milti-Task and Multi-Domain Recommendation</li>
+                        <li>Study on Uncertainty Modeling in Consumer Decision Process</li>
+                        <li>Contextual Multi-Armed Bandit Algorithms</li>
                     </ul>
                 </li>
                 <li>
                     <h3>Research on Cross Business Domain Complementary and Fusion Methods from Perspective of Consumer
                         Behavior Understanding</h3>
                     <p>Projects entrusted by enterprises and institutions with Meituan, PI (Xianneng Li), Sep. 2021 -
-                        July. 2022</p>
+                        July
+                        2022</p>
                     <ul>
                         <li>Consumer Behavior and Intention Modeling</li>
-                        <li>Milti-Task and Multi-Domain Recommendation</li>
+                        <li>Multi-Task and Multi-Domain Recommendation</li>
                     </ul>
                 </li>
             </ul>
@@ -289,8 +315,7 @@
                     <strong>Chinese Academic Conference</strong><br>
                     <em>Presentation / Attendance</em> Oct. 2021<br>
                     <strong>Presentation:</strong> "Research on comment-based recommendation algorithms from the
-                    perspective
-                    of social comparison theory"<br>
+                    perspective of social comparison theory"<br>
                     <strong>Conference Name:</strong> The First Academic Conference on Data Intelligence and
                     Management.
                 </li>
