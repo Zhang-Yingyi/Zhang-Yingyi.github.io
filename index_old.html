@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Yingyi Zhang's Homepage</title>
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+        integrity="sha512-Btkr8rha11mXNh1R/ULhTZZT/8xvJO69ivzabgqCKsUyoHcdFQvNc3d3qI9a+e57aQlK+BfiYFwO+1Gm0mLcug=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;800&display=swap"
+        rel="stylesheet">
+    <style>
+        body {
+            background-color: #F9FAFB;
+            font-family: 'Montserrat', sans-serif;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+            display: grid;
+            grid-template-columns: 1fr 2fr;
+            gap: 20px;
+        }
+
+        header {
+            grid-column: 1 / span 2;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px 40px;
+            background-color: #ffffff;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .header-left h1 {
+            font-size: 2.5rem;
+            margin: 0;
+            font-weight: 800;
+        }
+
+        .header-right {
+            text-align: right;
+        }
+
+        .contact-info {
+            margin: 0;
+            font-size: 1rem;
+            color: #666;
+        }
+
+        .contact-info a {
+            color: #333;
+            text-decoration: none;
+            border-bottom: 1px dotted #333;
+            transition: border-bottom 0.2s ease-in-out;
+        }
+
+        .contact-info a:hover {
+            border-bottom: 1px solid #333;
+        }
+
+        nav {
+            grid-column: 1 / span 2;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #E7E7E7;
+            box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1);
+            padding: 10px;
+            margin: 20px 0;
+        }
+
+        nav a {
+            color: #333;
+            text-decoration: none;
+            font-size: 1.2rem;
+            margin: 0 20px;
+            transition: color 0.2s;
+        }
+
+        nav a:hover {
+            color: #292929;
+        }
+
+        .container {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        .left-column,
+        .right-column {
+            padding: 20px;
+        }
+
+        h2 {
+            font-size: 2rem;
+            margin-bottom: 20px;
+            font-weight: 600;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        ul li {
+            margin-bottom: 10px;
+            font-size: 1rem;
+        }
+
+        ul li i {
+            margin-right: 10px;
+            color: #666;
+        }
+
+        ol {
+            padding-left: 20px;
+        }
+
+        ol li {
+            margin-bottom: 20px;
+            font-size: 1rem;
+        }
+
+        ol li p {
+            margin: 0;
+        }
+
+        footer {
+            grid-column: 1 / span 2;
+            background-color: #292929;
+            color: #F7F7F7;
+            text-align: center;
+            padding: 20px;
+            margin-top: 20px;
+            box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        footer a {
+            color: #F7F7F7;
+            text-decoration: none;
+            font-weight: bold;
+            transition: color 0.2s;
+        }
+
+        footer a:hover {
+            color: #E7E7E7;
+        }
+
+        footer p {
+            margin: 0;
+            font-size: 0.9rem;
+        }
+
+        @media (max-width: 768px) {
+            body {
+                grid-template-columns: 1fr;
+            }
+
+            header {
+                flex-direction: column;
+                text-align: center;
+            }
+
+            .header-right {
+                margin-top: 20px;
+            }
+
+            nav {
+                flex-direction: column;
+                padding: 20px;
+            }
+
+            nav a {
+                margin: 10px 0;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <div class="header-left">
+            <h1>Yingyi Zhang</h1>
+        </div>
+        <div class="header-right">
+            <p class="contact-info">
+                <i class="fas fa-envelope"></i> Email: <a
+                    href="mailto:yingyizhang@mail.dlut.edu.cn">yingyizhang@mail.dlut.edu.cn</a>
+                <br>
+                <i class="fas fa-map-marker-alt"></i> Location: Liaoning, Dalian, China
+            </p>
+        </div>
+    </header>
+    
+    <div class="left-column">
+        <nav>
+            <a href="./YingyiZhang_CV.pdf" target="_blank">Resume</a>
+        </nav>
+        <section>
+            <h2>Education</h2>
+            <ul>
+				<li>
+                    <strong>City University of Hong Kong (CityU)</strong>, Hong Kong<br>
+                    <em>PhD. student in the scool of data science</em>, Sep. 2024 - Now<br>
+                    <span>- Research focus: Consumer theory-driven recommendation.</span>
+                </li>
+                <li>
+                    <strong>Dalian University of Technology (DLUT)</strong>, Dalian<br>
+                    <em>PhD. student in Management Science and Engineering</em>, Sep. 2020 - Now<br>
+                    <span>- Research focus: Diversified recommendation methods for O2O e-commerce, consumer behavior
+                        and
+                        intention modeling, multi-task and multi-domain recommendation.</span>
+                </li>
+                <li>
+                    <strong>Dalian University of Technology (DLUT)</strong>, Dalian<br>
+                    <em>BS in Information Management and System</em>, Sep. 2016 - Jun. 2020<br>
+                    <span>- Relevant coursework: Data Structures, Algorithms, Database Systems, Information Retrieval,
+                        Statistics, Machine Learning.</span>
+                </li>
+            </ul>
+        </section>
+        <section>
+            <h2>Technical Skills</h2>
+            <ul>
+				<li>Large Language Model: LLM+Rec</li>
+                <li>Deep Learning: GNN, Attention, Meta Learning, Sequence Learning</li>
+                <li>Reinforcement Learning: DDPG, PPO, SAC, DQN, PG, Q-learning</li>
+                <li>Recommender Systems: STAR, PLE, MMOE, DIEN, DIN, Wide&amp;Deep, DeepFM</li>
+                <li>Drawing &amp; Typesetting: draw (the same as visio), LATEX, Beamer</li>
+                <li>Languages: Chinese (Native), English</li>
+            </ul>
+        </section>
+    </div>
+    <div class="right-column">
+        <section>
+            <h2>Publications</h2>
+            <ol>
+                <li>
+                    <p>ZHANG Ying-yi, LI Xian-neng*, GUO Yan-hong, et al. Deep review-based recommendation from the
+                        perspective of consumer decision journey[J]. Journal of Management Science in China, (in
+                        Chinese) <a
+                        href="http://jmsc.tju.edu.cn/jmsc/article/abstract/202112152019">[Link]</a></p>
+                </li>
+                <li>
+                    <p>Yingyi Zhang, Xianneng Li*, Yahe Yu, et al. 2023. Meta-Generator Enhanced Multi-Domain
+                        Recommendation. In Companion Proceedings of the ACM Web Conference 2023 (WWW'23 Companion),
+                        April
+                        30-May 4, 2023, Austin, TX, USA. ACM, New York, NY, USA, <a
+                        href="https://doi.org/10.1145/3543873.3584652">[Link]</a></p>
+                </li>
+                <li>
+                    <p>Yingyi Zhang, Xianneng Li*, Yahe Yu, et al. Entire Cost Enhanced Multi-Task Model for
+                        Online-to-Offline Conversion Rate Prediction. DL4SR’22: Workshop on Deep Learning for Search
+                        and
+                        Recommendation, co-located with the 31st ACM International Conference on Information and
+                        Knowledge
+                        Management (CIKM), October 17-21, 2022, Atlanta, USA, <a
+                        href="https://ceur-ws.org/Vol-3317/Paper4.pdf">[Link]</a></p>
+                </li>
+				<li>
+                    <p>Zerong Lan, Yingyi Zhang and Xianneng Li*, M3REC: A Meta-based Multi-scenario Multi-task Recommendation Framework, In Proceed-
+						ings of the 17th ACM Conference on Recommender Systems (RecSys ’23). 18th-22nd September 2023, Singapore. <a
+                        href="https://https://dl.acm.org/doi/10.1145/3604915.3608828">[Link]</a></p>
+                </li>
+				<li>
+                    <p>Yudi Xiao, Yingyi Zhang and Xianneng Li*, Modeling Variational Anchoring Effect for Recommender Systems,In the 2024 IEEE Conference on Artificial Intelligence (IEEE CAI 2024) </p>
+                </li>
+				<li>
+                    <p>Yingyi Zhang, Jianwei Liu, Xianneng Li*, et al. Motivating Image-Share Behavior of Consumer from Self-Reference Perspective. <strong>Working paper</strong></p>
+                </li>
+            </ol>
+        </section>
+        <section>
+            <h2>Research Projects</h2>
+            <ul>
+                <li>
+                    <h3>Research on Diversified Recommendation Methods Facing Uncertainty of Consumer Decision
+                        Process</h3>
+                    <p>National Natural Science Foundation of China, PI (Xianneng Li), Jan. 2023 - Dec. 2026</p>
+                    <ul>
+                        <li>Study on Uncertainty Modeling in Consumer Decision Process</li>
+                        <li>Contextual Multi-Armed Bandit Algorithms</li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>Research on Cross Business Domain Complementary and Fusion Methods from Perspective of Consumer
+                        Behavior Understanding</h3>
+                    <p>Projects entrusted by enterprises and institutions with Meituan, PI (Xianneng Li), Sep. 2021 -
+                        July
+                        2022</p>
+                    <ul>
+                        <li>Consumer Behavior and Intention Modeling</li>
+                        <li>Multi-Task and Multi-Domain Recommendation</li>
+                    </ul>
+                </li>
+            </ul>
+        </section>
+        <section>
+            <h2>Academic Conference</h2>
+            <ul>
+                <li>
+                    <strong>International Academic Conference</strong><br>
+                    <em>Virtual Presentation / Attendance</em> Oct. 2022<br>
+                    <strong>Presentation:</strong> "Entire Cost Enhanced Multi-Task Model for Online-to-Offline
+                    Conversion
+                    Rate Prediction"<br>
+                    <strong>Conference Name:</strong> DL4SR’22: Workshop on Deep Learning for Search and
+                    Recommendation,
+                    co-located with the 31st ACM International Conference on Information and Knowledge Management
+                    (CIKM)
+                </li>
+                <li>
+                    <strong>Chinese Academic Conference</strong><br>
+                    <em>Presentation / Attendance</em> Oct. 2021<br>
+                    <strong>Presentation:</strong> "Research on comment-based recommendation algorithms from the
+                    perspective of social comparison theory"<br>
+                    <strong>Conference Name:</strong> The First Academic Conference on Data Intelligence and
+                    Management.
+                </li>
+            </ul>
+        </section>
+        <section id="references">
+            <h2>References</h2>
+            <ul>
+                <li>
+                    <div class="name"><strong>Prof. Xianneg Li</strong></div>
+                    <div class="title"><em>Ph.D., Professor</em>, School of Economics and Management, Dalian
+                        University of
+                        Technology (Class A Double First Class University), Dalian, China</div>
+                    <div class="location">
+                        <a href="http://faculty.dlut.edu.cn/li/en/index.htm" target="_blank"><i
+                                class="fas fa-external-link-alt"></i> Homepage</a> |
+                        <a href="mailto:xianneng@dlut.edu.cn"><i class="fas fa-envelope"></i>
+                            xianneng@dlut.edu.cn</a>
+                    </div>
+                </li>
+                <li>
+                    <div class="name"><strong>Prof. Xiangyu Zhao</strong></div>
+                    <div class="title"><em>Ph.D, Assistant Professor</em>, at School of Data Science, City University
+                        of
+                        Hong Kong, Hong Kong, China</div>
+                    <div class="location">
+                        <a href="https://zhaoxyai.github.io/" target="_blank"><i
+                                class="fas fa-external-link-alt"></i> Homepage</a> |
+                        <a href="mailto:xy.zhao@cityu.edu.hk"><i class="fas fa-envelope"></i>
+                            xy.zhao@cityu.edu.hk</a>
+                    </div>
+                </li>
+            </ul>
+        </section>
+    </div>
+    <footer>
+        <p>This page was generated by ChatGPT, a language model trained by OpenAI.</p>
+    </footer>
+</body>
+
+</html>
