@@ -3,9 +3,9 @@ secondary_name: ""
 navbar_name: "Yingyi Zhang"
 
 positions:
-- name: PhD. candidate 
+- name: PhD. Candidate 
 - logo: /assets/images/badges/logo.png
-  name: Joint PhD. of DUT and CityU (2022~)
+  name: Joint PhD. of DUT and CityU (2022~Now)
 
 email: "yingyizhang@mail.dlut.edu.cn"
 cv_link: /assets/YingyiZhang_CV.pdf
@@ -19,19 +19,32 @@ gscholar: qCD3ObkAAAAJ
 # orcid: 0000-0000-0000-0000
 
 short_bio: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+  Hi! Welcome to my homepage. I’m Yingyi Zhang (张颖异), a PhD. Candidate in joint Dalian University of Technology (DUT) and City University of Hong Kong (CityU). My doctoral research focuses on consumer behavior in e-commerce and recommender systems jointly supervised by Prof. Xianneng Li (at DUT) and Prof. Xiangyu Zhao (at CityU). My interests lie in leveraging advanced technologies such as user behavior modeling and deep learning methods to address management challenges in online e-commerce.
 
 portrait_url: /assets/images/photos/zyy.png
 portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+  The photo from my most handsome period in 2018.
 
 education:
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2017 - Jul. 2021
+- name: City University of Hong Kong
+  logo: /assets/images/badges/cityu_logo.png
+  position: PhD. Candicate
+  date: Sep. 2024 - Now
+
+- name: Dalian University of Technology
+  logo: /assets/images/badges/dut_logo.png
+  position: PhD. Candicate
+  date: Sep. 2022 - Now
+
+- name: Dalian University of Technology
+  logo: /assets/images/badges/dut_logo.png
+  position: M.S. period of successive master-doctor program 
+  date: Sep. 2020 - Jul. 2022
+
+- name: Dalian University of Technology
+  logo: /assets/images/badges/dut_logo.png
+  position: B.S. in Management
+  date: Sep. 2016 - Jul. 2020
 
 # experience:
 # - name: Peking University
@@ -41,9 +54,13 @@ education:
 
 
 awards:
-- name: Award Name 2
+- name: "Second price: in KDD Cup 2024 Multi-task Online Shopping Challenge for LLMs (User Behavior Alignment Track)"
   date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
+- name: "National Third Prize: Supreme People’s Procuratorate National Procuratorate Big Data Legal Supervision"
+  date: 2023
+- name: Outstanding Graduate Student
+  date: 2023
+- name: "Commended Paper: The eleventh CNAIS Annual Conference"
+  date: 2023
+- name: "Best Paper: The First Academic Conference on Data Intelligence and Management"
   date: 2021
