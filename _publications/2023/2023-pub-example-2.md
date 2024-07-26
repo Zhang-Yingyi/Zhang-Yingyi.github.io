@@ -9,8 +9,8 @@ abstract: >-
 
 cover:          /assets/images/covers/paper2.png
 authors:
-  - Yingyi Zhang*
-  - Xianneng Li*
+  - Yingyi Zhang
+  - Xianneng Li#
   - Yahe Yu
   - ect.
 links:

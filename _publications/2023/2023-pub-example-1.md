@@ -1,6 +1,6 @@
 ---
 title:          "Deep review-based recommendation from the perspective of consumer decision journey"
-date:           2023-01-01 00:01:00 +0800
+date:           2023-01-05 00:01:00 +0800
 selected:       true
 pub:            "Journal of Management Sciences in China"
 pub_date:       "2023"
@@ -9,9 +9,9 @@ abstract: >-
 cover:          /assets/images/covers/paper1.png
 authors:
 - Yingyi Zhang
-- Xianneng Li*
+- Xianneng Li
 - Yanhong Guo
-- Xiaogang Li
+- Xiaogang Li#
 - Shuang Zheng
 links:
   Paper: https://jmsc.tju.edu.cn/jmsc/article/abstract/202112152019
