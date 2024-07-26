@@ -54,13 +54,13 @@ education:
 
 
 awards:
-- name: "<b>Second price:</b> in KDD Cup 2024 Multi-task Online Shopping Challenge for LLMs (User Behavior Alignment Track)"
+- name: "<strong>🥈Second price:</strong> in KDD Cup 2024 Multi-task Online Shopping Challenge for LLMs (User Behavior Alignment Track)"
   date: 2024
-- name: "National Third Prize: Supreme People’s Procuratorate National Procuratorate Big Data Legal Supervision"
+- name: "<strong>National Third Prize:</strong> Supreme People’s Procuratorate National Procuratorate Big Data Legal Supervision"
   date: 2023
-- name: Outstanding Graduate Student
+- name: <strong>Outstanding Graduate Student</strong>
   date: 2023
-- name: "Commended Paper: The eleventh CNAIS Annual Conference"
+- name: "<strong>Commended Paper:</strong> The eleventh CNAIS Annual Conference"
   date: 2023
-- name: "Best Paper: The First Academic Conference on Data Intelligence and Management"
+- name: "<strong>Best Paper:</strong> The First Academic Conference on Data Intelligence and Management"
   date: 2021
