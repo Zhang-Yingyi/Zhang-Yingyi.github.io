@@ -9,9 +9,9 @@ abstract: >-
 cover:          /assets/images/covers/paper1.png
 authors:
 - Yingyi Zhang
-- Xianneng Li
+- Xianneng Li#
 - Yanhong Guo
-- Xiaogang Li#
+- Xiaogang Li
 - Shuang Zheng
 links:
   Paper: https://jmsc.tju.edu.cn/jmsc/article/abstract/202112152019
