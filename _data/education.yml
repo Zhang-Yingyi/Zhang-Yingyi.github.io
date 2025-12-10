@@ -1,21 +1,21 @@
 
 education:
 - name: City University of Hong Kong
-  logo: /assets/img/badges/cityu_logo.jpg
+  logo: ./assets/img/badges/cityu_logo.jpg
   position: Ph.D. Candidate
   date: Sep. 2024 - Now
 
 - name: Dalian University of Technology
-  logo: /assets/img/badges/dut_logo.png
+  logo: ./assets/img/badges/dut_logo.png
   position: Ph.D. Candidate
   date: Sep. 2022 - Now
 
 - name: Dalian University of Technology
-  logo: /assets/img/badges/dut_logo.png
+  logo: ./assets/img/badges/dut_logo.png
   position: M.S., Successive Master–Doctor Program
   date: Sep. 2020 - Jul. 2022
 
 - name: Dalian University of Technology
-  logo: /assets/img/badges/dut_logo.png
+  logo: ./assets/img/badges/dut_logo.png
   position: B.S. in Management
   date: Sep. 2016 - Jul. 2020
