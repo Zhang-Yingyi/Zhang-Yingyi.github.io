@@ -1,4 +1,4 @@
-<h2 id="awards" style="margin: 2px 0px 0px;">🎖 Awards</h2>
+<h2 id="awards" style="margin: 2px 0px 10px;">🎖 Awards</h2>
 
 <div class="awards">
 <ol class="bibliography">

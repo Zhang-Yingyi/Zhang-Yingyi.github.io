@@ -13,7 +13,6 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
 
 
 ## 🔥 News
-
 - **[Nov. 2025]** I am awarded the <strong><i style="color:#e74d3c">Student Scholarship</i></strong> prize at **AAAI'26**!
 - **[Nov. 2025]** Our paper about *Personalized Pre-Retrieval* is accepted to **AAAI'26** as <strong> <i style="color:#e74d3c">🌟ORAL</i></strong>!
 - **[Nov. 2025]** Our paper about *LLM4Rank* is accepted to **AAAI'26**, congrats to Zhewei!
@@ -48,10 +47,10 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
   - Studied on Cross Business Domain Complementary and Fusion Methods from Perspective of Consumer Behavior Understanding.
 
 ## ✏️ Services
-### Reviewer
-- AAAI 2026
+- Reviewer
+    - AAAI 2026
 
-### Volunteer
-- AAAI 2026
+- Volunteer
+    - AAAI 2026
 
 <!-- {% include_relative _includes/services.md %} -->
