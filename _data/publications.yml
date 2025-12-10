@@ -49,7 +49,7 @@ main:
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/covers/cusmer.png
-    notes: 🥉bronze medal
+    notes: 🥉Bronze Medal
 
   - title: "Enhancing user behavior alignment by input-level model cooperation and model-level parameter optimization"
     authors: <strong>Yingyi Zhang</strong>, Zhipeng Li,Zhewei Zhi, Xianneng Li✉️
