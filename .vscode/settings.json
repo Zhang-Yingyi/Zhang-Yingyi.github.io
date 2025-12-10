@@ -1,5 +1,4 @@
 {
-    "kunpeng.remote.ssh.machineinfo": [],
     "workbench.colorCustomizations": {
         "sideBar.background": "#1f2329",
         "activityBar.background": "#2A2E37",
@@ -13,27 +12,5 @@
         "tab.inactiveBackground": "#23282E",
         "menu.background": "#2A2F37",
         "menu.selectionBackground": "#0E629D"
-    },
-    "editor.tokenColorCustomizations": {
-        "textMateRules": [
-            {
-                "scope": "kunpeng.func",
-                "settings": {
-                    "foreground": "#28a745"
-                }
-            },
-            {
-                "scope": "kunpeng.intrinsics",
-                "settings": {
-                    "foreground": "#28a745"
-                }
-            },
-            {
-                "scope": "kunpeng.builtIn",
-                "settings": {
-                    "foreground": "#28a745"
-                }
-            }
-        ]
     }
 }

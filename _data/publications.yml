@@ -1,0 +1,97 @@
+main:
+
+  - title: Personalize Before Retrieve: LLM-based Personalized Query Expansion for User-Centric Retrieval
+    authors:  <strong>Yingyi Zhang✨</strong>, Pengyue Jia✨,  Derong Xu, Yi Wen, Xianneng Li✉️, Yichao Wang✉️, Wenlin Zhang, Xiaopeng Li, Weinan Gan, Huifeng Guo, Yong Liu, Xiangyu Zhao✉️
+    conference_short: AAAI'26
+    conference: The 40th Annual AAAI Conference on Artificial Intelligence <strong>(AAAI'26)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2510.08935
+    code: https://github.com/Applied-Machine-Learning-Lab/PBR-code
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/covers/PBR.png
+    notes: Oral
+
+  - title: Compress-then-Rank: Faster and Better Listwise Reranking with Large Language Models via Ranking-Aware Passage
+    authors: Zhewei Zhi✨, <strong>Yingyi Zhang✨</strong>, Yizhen Jing, Xianneng Li✉️, Jianing Liu, Huajie Liu, Yongliang Ding
+    conference_short: AAAI'26
+    conference: The 40th Annual AAAI Conference on Artificial Intelligence <strong>(AAAI'26)</strong>, 2025.
+    # pdf: https://dl.acm.org/doi/10.1145/3711896.3737036
+    # code: https://github.com/Applied-Machine-Learning-Lab/LSRP
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/covers/C2R.png
+    # notes: 🥉bronze medal
+
+  - title: LSRP: A Leader-Subordinate Retrieval Framework for Privacy-Preserving Cloud-Device Collaboration
+    authors: <strong>Yingyi Zhang✨</strong>, Pengyue Jia✨,  Xianneng Li✉️, Derong Xu, Maolin Wang, Yichao Wang, Zhaocheng Du, Huifeng Guo✉️, Yong Liu, Ruiming Tang, Xiangyu Zhao✉️
+    conference_short: KDD'25
+    conference: 2025 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining <strong>(KDD'25)</strong>, 2025.
+    pdf: https://dl.acm.org/doi/10.1145/3711896.3737036
+    code: https://github.com/Applied-Machine-Learning-Lab/LSRP
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/covers/LSRP.png
+    # notes: With Huawei
+
+  - title: CuSMer: Multimodal Intent Recognition in Customer Service via Data Augment and LLM Merge
+    authors: Zhipeng Li✨, Binglin Wu✨, <strong>Yingyi Zhang✨</strong>, Xianneng Li✉️, Kai Li, Weizhi Chen
+    conference_short: WWW'25
+    conference: The ACM Web Conference <strong>(WWW'25 Compitition Track)</strong>, 2025.
+    pdf: https://dl.acm.org/doi/abs/10.1145/3701716.3718373
+    page: https://tianchi.aliyun.com/competition/entrance/532277/rankingList
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/covers/cusmer.png
+    notes: 🥉bronze medal
+
+  - title: Enhancing user behavior alignment by input-level model cooperation and model-level parameter optimization
+    authors: <strong>Yingyi Zhang</strong>, Zhipeng Li,Zhewei Zhi, Xianneng Li✉️
+    conference_short: Amazon KDD Cup
+    conference: KDD Cup 2024 Workshop: A Multi-task Online Shopping Challenge for Large Language Models <strong>(Amazon KDD Cup)</strong>, 2024.
+    pdf: https://openreview.net/forum?id=fbX9XN3qmS#discussion
+    page: https://amazon-kddcup24.github.io/
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/covers/paper_kdd_cup.png
+    notes: 🥈Second Prize and Student Award
+
+
+  - title: Meta-Generator Enhanced Multi-Domain Recommendation
+    authors: <strong>Yingyi Zhang</strong>, Xianneng Li✉️, Yahe Yu, Jian Tang, Huanfang Deng, Junya Lu, Yeyin Zhang, Qiancheng Jiang, Yunsen Xian, Liqian Yu, Han Liu
+    conference_short: WWW’23 - industry truck
+    conference: The ACM Web Conference <strong>(WWW'23 Industry Track)</strong>, 2023.
+    pdf: https://dl.acm.org/doi/10.1145/3543873.3584652
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/covers/paper2.png
+    notes: An Online Deployed Systems in Meituan
+
+
+  - title: Deep review-based recommendation from the perspective of consumer decision journey
+    authors: <strong>Yingyi Zhang</strong>, Xianneng Li✉️, Yanhong Guo, Xiaogang Li, Shuang Zheng 
+    # conference_short: DL4SR@CIKM
+    conference: Journal of Management Sciences in China.
+    pdf: https://jmsc.tju.edu.cn/jmscen/article/abstract/20240807?st=article_issue
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/covers/paper2022.png
+    notes: The Top 1 Chinese journal in Management and Science
+
+
+  - title: Entire Cost Enhanced Multi-Task Model for Online-to-Offline Conversion Rate Prediction
+    authors: <strong>Yingyi Zhang</strong>, Xianneng Li✉️, Yahe Yu, Jian Tang, Huanfang Deng, Junya Lu, Yeyin Zhang, Qiancheng Jiang, Yunsen Xian, Liqian Yu
+    conference_short: DL4SR@CIKM
+    conference: Workshop on Deep Learning for Search and Recommendation, co-located with the 31st ACM International Conference on Information and Knowledge Management <strong>(DL4SR@CIKM)</strong>, 2022.
+    pdf: https://ceur-ws.org/Vol-3317/Paper4.pdf
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/covers/paper2022.png
+    notes: An Online Deployed Systems in Meituan
+
+  # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
+  #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  #   conference_short: CVPR
+  #   conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+  #   pdf: https://arxiv.org/pdf/2002.10211.pdf
+  #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+  #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   notes: Oral Presentation
+  #   image: ./assets/img/teaser_example.png
