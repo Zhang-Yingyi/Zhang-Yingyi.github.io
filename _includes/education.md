@@ -25,5 +25,5 @@
 
 {% endfor %}
 
-</ul>
+</ol>
 </div>
