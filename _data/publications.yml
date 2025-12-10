@@ -40,7 +40,7 @@ main:
     image: ./assets/img/covers/LSRP.png
     # notes: With Huawei
 
-  - title: CuSMer: Multimodal Intent Recognition in Customer Service via Data Augment and LLM Merge
+  - title: "CuSMer: Multimodal Intent Recognition in Customer Service via Data Augment and LLM Merge"
     authors: Zhipeng Li✨, Binglin Wu✨, <strong>Yingyi Zhang✨</strong>, Xianneng Li✉️, Kai Li, Weizhi Chen
     conference_short: WWW'25
     conference: The ACM Web Conference <strong>(WWW'25 Compitition Track)</strong>, 2025.
