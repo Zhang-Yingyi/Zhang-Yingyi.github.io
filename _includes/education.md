@@ -1,5 +1,4 @@
-<h2 id="education" style="margin: 2px 0px 5px;">📖 Education</h2>
-<br>
+<h2 id="education" style="margin: 2px 0px 10px;">📖 Education</h2>
 
 <div class="education">
 <ol class="bibliography" style="list-style: none; padding-left: 0;">
