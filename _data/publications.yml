@@ -1,4 +1,14 @@
 main:
+  - title: GeoArena: An Open Platform for Benchmarking Large Vision-language Models on WorldWide Image Geolocalization
+    authors:  Pengyue Jia✨, <strong>Yingyi Zhang✨</strong>, Xiangyu Zhao, Sharon Li
+    conference_short: Arxiv
+    conference: Prepriont <strong>(Arxiv)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2509.04334
+    code: https://github.com/Applied-Machine-Learning-Lab/GeoArena
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/covers/GeoArena.png
+    # notes: Oral
+
 
   - title: Personalize Before Retrieve: LLM-based Personalized Query Expansion for User-Centric Retrieval
     authors:  <strong>Yingyi Zhang✨</strong>, Pengyue Jia✨,  Derong Xu, Yi Wen, Xianneng Li✉️, Yichao Wang✉️, Wenlin Zhang, Xiaopeng Li, Weinan Gan, Huifeng Guo, Yong Liu, Xiangyu Zhao✉️
