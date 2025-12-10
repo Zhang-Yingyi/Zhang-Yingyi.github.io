@@ -4,6 +4,8 @@
 <ol class="bibliography">
 
 {% for award in site.data.awards.awards %}
+
+
 <li>
   <div class="pub-row">
     <div class="col-sm-3 abbr" style="padding-left: 15px;">
