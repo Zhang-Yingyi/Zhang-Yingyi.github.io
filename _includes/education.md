@@ -1,4 +1,5 @@
 <h2 id="education" style="margin: 2px 0px 5px;">📖 Education</h2>
+<br>
 
 <div class="education">
 <ol class="bibliography" style="list-style: none; padding-left: 0;">
@@ -21,6 +22,8 @@
     </div>
   </div>
 </li>
+
+<br>
 
 {% endfor %}
 
