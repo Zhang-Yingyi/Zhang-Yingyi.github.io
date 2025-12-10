@@ -12,7 +12,7 @@
       <img src="{{ edu.logo }}" style="width: 60px; height: auto;">
       {% endif %}
     </div>
-    <div class="col-sm-9" style="position: relative;padding-right: 15px; padding-left: 20px;">
+    <div class="col-sm-12" style="position: relative;padding-right: 15px; padding-left: 20px;">
       <div style="display:flex; justify-content:space-between; align-items:baseline;">
         <div class="title"><strong>{{ edu.name }}</strong></div>
         <div style="font-style: italic; white-space: nowrap;">{{ edu.date }}</div>
