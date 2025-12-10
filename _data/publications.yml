@@ -1,5 +1,5 @@
 main:
-  - title: GeoArena: An Open Platform for Benchmarking Large Vision-language Models on WorldWide Image Geolocalization
+  - title: "GeoArena: An Open Platform for Benchmarking Large Vision-language Models on WorldWide Image Geolocalization"
     authors:  Pengyue Jia✨, <strong>Yingyi Zhang✨</strong>, Xiangyu Zhao, Sharon Li
     conference_short: Arxiv
     conference: Prepriont <strong>(Arxiv)</strong>, 2025.
@@ -10,7 +10,7 @@ main:
     # notes: Oral
 
 
-  - title: Personalize Before Retrieve: LLM-based Personalized Query Expansion for User-Centric Retrieval
+  - title: "Personalize Before Retrieve: LLM-based Personalized Query Expansion for User-Centric Retrieval"
     authors:  <strong>Yingyi Zhang✨</strong>, Pengyue Jia✨,  Derong Xu, Yi Wen, Xianneng Li✉️, Yichao Wang✉️, Wenlin Zhang, Xiaopeng Li, Weinan Gan, Huifeng Guo, Yong Liu, Xiangyu Zhao✉️
     conference_short: AAAI'26
     conference: The 40th Annual AAAI Conference on Artificial Intelligence <strong>(AAAI'26)</strong>, 2025.
@@ -20,7 +20,7 @@ main:
     image: ./assets/img/covers/PBR.png
     notes: Oral
 
-  - title: Compress-then-Rank: Faster and Better Listwise Reranking with Large Language Models via Ranking-Aware Passage
+  - title: "Compress-then-Rank: Faster and Better Listwise Reranking with Large Language Models via Ranking-Aware Passage"
     authors: Zhewei Zhi✨, <strong>Yingyi Zhang✨</strong>, Yizhen Jing, Xianneng Li✉️, Jianing Liu, Huajie Liu, Yongliang Ding
     conference_short: AAAI'26
     conference: The 40th Annual AAAI Conference on Artificial Intelligence <strong>(AAAI'26)</strong>, 2025.
@@ -30,7 +30,7 @@ main:
     image: ./assets/img/covers/C2R.png
     # notes: 🥉bronze medal
 
-  - title: LSRP: A Leader-Subordinate Retrieval Framework for Privacy-Preserving Cloud-Device Collaboration
+  - title: "LSRP: A Leader-Subordinate Retrieval Framework for Privacy-Preserving Cloud-Device Collaboration"
     authors: <strong>Yingyi Zhang✨</strong>, Pengyue Jia✨,  Xianneng Li✉️, Derong Xu, Maolin Wang, Yichao Wang, Zhaocheng Du, Huifeng Guo✉️, Yong Liu, Ruiming Tang, Xiangyu Zhao✉️
     conference_short: KDD'25
     conference: 2025 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining <strong>(KDD'25)</strong>, 2025.
@@ -51,7 +51,7 @@ main:
     image: ./assets/img/covers/cusmer.png
     notes: 🥉bronze medal
 
-  - title: Enhancing user behavior alignment by input-level model cooperation and model-level parameter optimization
+  - title: "Enhancing user behavior alignment by input-level model cooperation and model-level parameter optimization"
     authors: <strong>Yingyi Zhang</strong>, Zhipeng Li,Zhewei Zhi, Xianneng Li✉️
     conference_short: Amazon KDD Cup
     conference: KDD Cup 2024 Workshop: A Multi-task Online Shopping Challenge for Large Language Models <strong>(Amazon KDD Cup)</strong>, 2024.
@@ -63,7 +63,7 @@ main:
     notes: 🥈Second Prize and Student Award
 
 
-  - title: Meta-Generator Enhanced Multi-Domain Recommendation
+  - title: "Meta-Generator Enhanced Multi-Domain Recommendation"
     authors: <strong>Yingyi Zhang</strong>, Xianneng Li✉️, Yahe Yu, Jian Tang, Huanfang Deng, Junya Lu, Yeyin Zhang, Qiancheng Jiang, Yunsen Xian, Liqian Yu, Han Liu
     conference_short: WWW’23 - industry truck
     conference: The ACM Web Conference <strong>(WWW'23 Industry Track)</strong>, 2023.
@@ -74,7 +74,7 @@ main:
     notes: An Online Deployed Systems in Meituan
 
 
-  - title: Deep review-based recommendation from the perspective of consumer decision journey
+  - title: "Deep review-based recommendation from the perspective of consumer decision journey"
     authors: <strong>Yingyi Zhang</strong>, Xianneng Li✉️, Yanhong Guo, Xiaogang Li, Shuang Zheng 
     # conference_short: DL4SR@CIKM
     conference: Journal of Management Sciences in China.
@@ -85,7 +85,7 @@ main:
     notes: The Top 1 Chinese journal in Management and Science
 
 
-  - title: Entire Cost Enhanced Multi-Task Model for Online-to-Offline Conversion Rate Prediction
+  - title: "Entire Cost Enhanced Multi-Task Model for Online-to-Offline Conversion Rate Prediction"
     authors: <strong>Yingyi Zhang</strong>, Xianneng Li✉️, Yahe Yu, Jian Tang, Huanfang Deng, Junya Lu, Yeyin Zhang, Qiancheng Jiang, Yunsen Xian, Liqian Yu
     conference_short: DL4SR@CIKM
     conference: Workshop on Deep Learning for Search and Recommendation, co-located with the 31st ACM International Conference on Information and Knowledge Management <strong>(DL4SR@CIKM)</strong>, 2022.
