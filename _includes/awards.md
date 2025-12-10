@@ -11,7 +11,7 @@
     <div class="col-sm-3 abbr" style="padding-left: 15px;">
       <span style="font-weight: bold;">{{ award.date }}</span>
     </div>
-    <div class="col-sm-12" style="padding-left: 20px;">
+    <div class="col-sm-9" style="padding-left: 20px;">
       <div class="title">{{ award.name }}</div>
     </div>
   </div>
