@@ -14,7 +14,7 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
 
 ## 🔥 News
 
-- **[Nov. 2025]** I am awarded the <strong><i style="color:#e74d3c">student scholarship</i></strong> prize at **AAAI'26**!
+- **[Nov. 2025]** I am awarded the <strong><i style="color:#e74d3c">Student Scholarship</i></strong> prize at **AAAI'26**!
 - **[Nov. 2025]** Our paper about *Personalized Pre-Retrieval* is accepted to **AAAI'26** as <strong> <i style="color:#e74d3c">🌟ORAL</i></strong>!
 - **[Nov. 2025]** Our paper about *LLM4Rank* is accepted to **AAAI'26**, congrats to Zhewei!
 - **[Sep. 2025]** Our paper about *Agentic RAG* is accepted to **Neurips'25**, congrats to Wenlin!
