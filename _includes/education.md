@@ -10,7 +10,7 @@
   <div class="pub-row">
     <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
       {% if edu.logo %}
-      <img src="{{ edu.logo }}" class="img-fluid" style="max-width:20px;">
+      <img src="{{ edu.logo }}" style="width: 30px; height: auto;">
       {% endif %}
     </div>
 
@@ -22,6 +22,7 @@
   </div>
 </li>
 <br>
+
 {% endfor %}
 
 </ol>
