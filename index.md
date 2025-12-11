@@ -39,7 +39,26 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
 
 {% include_relative _includes/publications.md %}
 
+- Our Survey Paper
+    - Maolin Wang✨, **Yingyi Zhang**✨, Bowen Yu✨, Bingguang Hao, Cunyin Peng, Yicheng Chen, Wei Zhou, Jinjie Gu, Chenyi Zhuang, Ruocheng Guo, Wanyu Wang, Xiangyu Zhao. 
+    **[Function Calling in Large Language Models: Industrial Practices, Challenges, and Future Directions](https://openreview.net/pdf?id=LNxVGPedFW)**. 
+    *Preprint*
+    - Xiaopeng Li, Pengyue Jia, Derong Xu, Yi Wen, **Yingyi Zhang**, Wenlin Zhang, Wanyu Wang, Yichao Wang, Zhaocheng Du, Xiangyang Li, Yong Liu, Huifeng Guo, Ruiming Tang, Xiangyu Zhao. 
+    **[A Survey of Personalization: From RAG to Agent](https://arxiv.org/abs/2504.10147)**. 
+    *Preprint*
+    - Wenlin Zhang, Xiaopeng Li, **Yingyi Zhang**, Pengyue Jia, Yichao Wang, Huifeng Guo, Yong Liu, Xiangyu Zhao. 
+    **[Deep research: A survey of autonomous research agents](https://arxiv.org/abs/2508.12752)**. 
+    *Preprint*
 
+- Other Metioned Papers
+    - Wenlin Zhang, Xiangyang Li, Kuicai Dong, Yichao Wang, Pengyue Jia, Xiaopeng Li, **Yingyi Zhang**, Derong Xu, Zhaocheng Du, Huifeng Guo, Ruiming Tang, Xiangyu Zhao.
+    Process vs. Outcome Reward: Which is Better for Agentic RAG Reinforcement Learning. 
+    **[Process vs. Outcome Reward: Which is Better for Agentic RAG Reinforcement Learning](https://arxiv.org/abs/2505.14069)**. 
+    *<i style="color:#e74d3c">Accepted at Neurips'25</i>*
+    - Yue Que, **Yingyi Zhang**, Xiangyu Zhao, Chen Ma. 
+    **[Causality-aware Graph Aggregation Weight Estimator for Popularity Debiasing in Top-K Recommendation](https://arxiv.org/abs/2510.04502)**.
+    *<i style="color:#e74d3c">Accepted at CIKM'25</i>*
+    
 ## 💻 Internships
 - **Oct. 2024 - Now**: Research Intern at Huawei, Noah's Ark Lab.
     - Working on Personalized RAG and Recommendation with LLM.
