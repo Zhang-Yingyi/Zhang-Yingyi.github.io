@@ -12,5 +12,28 @@
         "tab.inactiveBackground": "#23282E",
         "menu.background": "#2A2F37",
         "menu.selectionBackground": "#0E629D"
+    },
+    "kunpeng.remote.ssh.machineinfo": [],
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": "kunpeng.func",
+                "settings": {
+                    "foreground": "#28a745"
+                }
+            },
+            {
+                "scope": "kunpeng.intrinsics",
+                "settings": {
+                    "foreground": "#28a745"
+                }
+            },
+            {
+                "scope": "kunpeng.builtIn",
+                "settings": {
+                    "foreground": "#28a745"
+                }
+            }
+        ]
     }
 }
