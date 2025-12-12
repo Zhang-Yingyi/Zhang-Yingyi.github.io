@@ -58,10 +58,10 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
     - Yue Que, **Yingyi Zhang**, Xiangyu Zhao, Chen Ma. 
     **[Causality-aware Graph Aggregation Weight Estimator for Popularity Debiasing in Top-K Recommendation](https://arxiv.org/abs/2510.04502)**.
     *<i style="color:#e74d3c">Accepted at CIKM'25</i>*
-    - Yudi Xiao, **Yingyi Zhang**, Xianneng Li 
+    - Yudi Xiao, **Yingyi Zhang**, Xianneng Li. 
     **[Modeling Variational Anchoring Effect for Recommender Systems](https://ieeexplore.ieee.org/abstract/document/10605368)**.
     *<i style="color:#e74d3c">Accepted at CAI'23</i>*
-    - Zerong Lan, **Yingyi Zhang**, Xianneng Li 
+    - Zerong Lan, **Yingyi Zhang**, Xianneng Li. 
     **[M3REC: A Meta-based Multi-scenario Multi-task Recommendation Framework](https://dl.acm.org/doi/abs/10.1145/3604915.3608828)**.
     *<i style="color:#e74d3c">Accepted at RecSys'23</i>*
     
