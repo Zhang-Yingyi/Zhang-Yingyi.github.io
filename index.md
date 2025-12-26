@@ -13,6 +13,7 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
 
 
 ## 🔥 News
+- **[Dec. 2025]** Our <strong> <i style="color:#e74d3c">Survey</i></strong> paper about *Personalized RAG* is accepted to **TOIS**, congrats to Xiaopeng!
 - **[Nov. 2025]** I am awarded the <strong><i style="color:#e74d3c">Student Scholarship</i></strong> prize at **AAAI'26**!
 - **[Nov. 2025]** Our paper about *Personalized Pre-Retrieval* is accepted to **AAAI'26** as <strong> <i style="color:#e74d3c">🌟ORAL</i></strong>!
 - **[Nov. 2025]** Our paper about *LLM4Rank* is accepted to **AAAI'26**, congrats to Zhewei!
@@ -43,12 +44,12 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
     - Maolin Wang✨, **Yingyi Zhang**✨, Bowen Yu✨, Bingguang Hao, Cunyin Peng, Yicheng Chen, Wei Zhou, Jinjie Gu, Chenyi Zhuang, Ruocheng Guo, Wanyu Wang, Xiangyu Zhao. 
     **[Function Calling in Large Language Models: Industrial Practices, Challenges, and Future Directions](https://openreview.net/pdf?id=LNxVGPedFW)**. 
     *Preprint*
-    - Xiaopeng Li, Pengyue Jia, Derong Xu, Yi Wen, **Yingyi Zhang**, Wenlin Zhang, Wanyu Wang, Yichao Wang, Zhaocheng Du, Xiangyang Li, Yong Liu, Huifeng Guo, Ruiming Tang, Xiangyu Zhao. 
-    **[A Survey of Personalization: From RAG to Agent](https://arxiv.org/abs/2504.10147)**. 
-    *Preprint*
     - Wenlin Zhang, Xiaopeng Li, **Yingyi Zhang**, Pengyue Jia, Yichao Wang, Huifeng Guo, Yong Liu, Xiangyu Zhao. 
     **[Deep research: A survey of autonomous research agents](https://arxiv.org/abs/2508.12752)**. 
     *Preprint*
+    - Xiaopeng Li, Pengyue Jia, Derong Xu, Yi Wen, **Yingyi Zhang**, Wenlin Zhang, Wanyu Wang, Yichao Wang, Zhaocheng Du, Xiangyang Li, Yong Liu, Huifeng Guo, Ruiming Tang, Xiangyu Zhao. 
+    **[A Survey of Personalization: From RAG to Agent](https://arxiv.org/abs/2504.10147)**. 
+    *<i style="color:#e74d3c">Accepted at TOIS</i>*
 
 - Other Metioned Papers
     - Wenlin Zhang, Xiangyang Li, Kuicai Dong, Yichao Wang, Pengyue Jia, Xiaopeng Li, **Yingyi Zhang**, Derong Xu, Zhaocheng Du, Huifeng Guo, Ruiming Tang, Xiangyu Zhao.
