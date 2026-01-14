@@ -13,7 +13,7 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
 
 
 ## 🔥 News
-- **[Sep. 2025]** Our paper about *Search Agent Boundary* is accepted to **WWW'26**, congrats to Wenlin!
+- **[Jan. 2026]** Our paper about *Search Agent Boundary* is accepted to **WWW'26**, congrats to Wenlin!
 - **[Dec. 2025]** Our <strong><i style="color:#e74d3c">Survey</i></strong> paper about *LLM Function Call* is accepted to **CSUR**, congrats to Prof. Maolin!
 - **[Dec. 2025]** Our <strong><i style="color:#e74d3c">Survey</i></strong> paper about *Personalized RAG* is accepted to **TOIS**, congrats to Xiaopeng!
 - **[Nov. 2025]** I am awarded the <strong><i style="color:#e74d3c">Student Scholarship</i></strong> prize at **AAAI'26**!
