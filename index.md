@@ -13,6 +13,7 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
 
 
 ## 🔥 News
+- **[Sep. 2025]** Our paper about *Search Agent Boundary* is accepted to **WWW'26**, congrats to Wenlin!
 - **[Dec. 2025]** Our <strong><i style="color:#e74d3c">Survey</i></strong> paper about *LLM Function Call* is accepted to **CSUR**, congrats to Prof. Maolin!
 - **[Dec. 2025]** Our <strong><i style="color:#e74d3c">Survey</i></strong> paper about *Personalized RAG* is accepted to **TOIS**, congrats to Xiaopeng!
 - **[Nov. 2025]** I am awarded the <strong><i style="color:#e74d3c">Student Scholarship</i></strong> prize at **AAAI'26**!
@@ -53,8 +54,10 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
     *Preprint*
 
 - Other Metioned Papers
-    - Wenlin Zhang, Xiangyang Li, Kuicai Dong, Yichao Wang, Pengyue Jia, Xiaopeng Li, **Yingyi Zhang**, Derong Xu, Zhaocheng Du, Huifeng Guo, Ruiming Tang, Xiangyu Zhao.
-    Process vs. Outcome Reward: Which is Better for Agentic RAG Reinforcement Learning. 
+    -  Wenlin Zhang, Kuicai Dong, Junyi Li, **Yingyi Zhang**, Xiaopeng Li, Pengyue Jia, Yi Wen, Derong Xu, Maolin Wang, Yichao Wang, Yong Liu and Xiangyu Zhao.
+    **[To Search or Not to Search: Aligning the Decision Boundary of Deep Search Agents via Causal Intervention.](https://zhang-yingyi.github.io/)**. 
+    *<i style="color:#e74d3c">Accepted at WWW'26</i>*
+    - Wenlin Zhang, Xiangyang Li, Kuicai Dong, Yichao Wang, Pengyue Jia, Xiaopeng Li, **Yingyi Zhang**, Derong Xu, Zhaocheng Du, Huifeng Guo, Ruiming Tang, Xiangyu Zhao. 
     **[Process vs. Outcome Reward: Which is Better for Agentic RAG Reinforcement Learning](https://arxiv.org/abs/2505.14069)**. 
     *<i style="color:#e74d3c">Accepted at Neurips'25</i>*
     - Yue Que, **Yingyi Zhang**, Xiangyu Zhao, Chen Ma. 

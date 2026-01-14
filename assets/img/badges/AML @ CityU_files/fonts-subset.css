@@ -1,0 +1,106 @@
+@charset "UTF-8";
+@font-face {
+  font-family: "方正仿宋_GBK-subset";
+  src: url("https://docs.gtimg.com/common-cdn/font/FZFSK--GBK1-0-subset.woff2") format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: "方正隶书_GBK-subset";
+  src: url("https://docs.gtimg.com/common-cdn/font/FZLSK--GBK1-0-subset.woff2") format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: "方正新楷体_GBK-subset";
+  src: url("https://docs.gtimg.com/common-cdn/font/FZXKTJW--GB1-0-subset.woff2") format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: "方正姚体_GBK-subset";
+  src: url("https://docs.gtimg.com/common-cdn/font/FZYTK--GBK1-0-subset.woff2") format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: "腾讯体 W3-subset";
+  src: url("https://docs.gtimg.com/common-cdn/font/TencentSansW3-subset.woff2") format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: "腾讯体 W7-subset";
+  src: url("https://docs.gtimg.com/common-cdn/font/TencentSansW7-subset.woff2") format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: "汉仪中黑-subset";
+  src: url("https://docs.gtimg.com/common-cdn/font/HYZhongHei-L2_GB2312-subset.woff2") format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: "汉仪中黑-补充字库-subset";
+  src: url("https://docs.gtimg.com/common-cdn/font/HYZhongHei-L3-subset.woff2") format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: "造字工房芝士少女体-subset";
+  src: url("https://docs.gtimg.com/common-cdn/font/MFZhiShiShaoNv-Regular-subset.woff2") format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: "造字工房薄荷海盐体-subset";
+  src: url("https://docs.gtimg.com/common-cdn/font/MFBoHeHaiYan-Regular-subset.woff2") format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: "仿宋-简-subset";
+  src: url("https://docs.gtimg.com/common-cdn/font/FangS-SC-subset.woff2") format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: "方正等线-简 Light-subset";
+  src: url("https://docs.gtimg.com/common-cdn/font/FZDENGXS-L-subset.woff2") format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: "方正等线-简-subset";
+  src: url("https://docs.gtimg.com/common-cdn/font/FZDENGXS-R-subset.woff2") format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: "方正小标宋_GBK-subset";
+  src: url("https://docs.gtimg.com/common-cdn/font/FZXBSK--GBK1-0-subset.woff2") format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: "方正雅意黑 GB18030L2 L-subset";
+  src: url("https://docs.gtimg.com/common-cdn/font/FZYAYH-GB18030L2-L-subset.woff2") format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: "方正雅意黑 GB18030L2 R-subset";
+  src: url("https://docs.gtimg.com/common-cdn/font/FZYAYH-GB18030L2-R-subset.woff2") format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: "方正雅意黑 GB18030L2 B-subset";
+  src: url("https://docs.gtimg.com/common-cdn/font/FZYAYH-GB18030L2-B-subset.woff2") format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: "黑体-简-subset";
+  src: url("https://docs.gtimg.com/common-cdn/font/HeiT-SC-subset.woff2") format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: "楷体-简-subset";
+  src: url("https://docs.gtimg.com/common-cdn/font/KaiT-SC-subset.woff2") format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: "书宋-简-subset";
+  src: url("https://docs.gtimg.com/common-cdn/font/ShuS-SC-subset.woff2") format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: "TDocs Math-subset";
+  src: url("https://docs.gtimg.com/common-cdn/font/TDocsMath-Regular-subset.woff2") format("woff2");
+  font-display: swap;
+}
