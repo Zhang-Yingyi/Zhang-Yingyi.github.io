@@ -13,6 +13,8 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
 
 
 ## 🔥 News
+- **[Jan. 2026]** Our paper about *Personalized Memory Retrieval* is accepted to **ICLR'26**.
+- **[Jan. 2026]** Our paper about *Memory Management* is accepted to **ICLR'26**, congrats to Derong!
 - **[Jan. 2026]** Our paper about *Search Agent Boundary* is accepted to **WWW'26**, congrats to Wenlin!
 - **[Dec. 2025]** Our <strong><i style="color:#e74d3c">Survey</i></strong> paper about *LLM Function Call* is accepted to **CSUR**, congrats to Prof. Maolin!
 - **[Dec. 2025]** Our <strong><i style="color:#e74d3c">Survey</i></strong> paper about *Personalized RAG* is accepted to **TOIS**, congrats to Xiaopeng!
@@ -54,6 +56,9 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
     *Preprint*
 
 - Other Metioned Papers
+    -  Derong Xu, Yi Wen, Pengyue Jia, **Yingyi Zhang**, Wenlin Zhang, Yichao Wang, Huifeng Guo, Ruiming Tang, Xiangyu Zhao, Enhong Chen, Tong Xu.
+    **[From Single to Multi-Granularity: Toward Long-Term Memory Association and Selection of Conversational Agents.](https://openreview.net/pdf?id=i2yIvZARnG)**. 
+    *<i style="color:#e74d3c">Accepted at ICLR'26</i>*
     -  Wenlin Zhang, Kuicai Dong, Junyi Li, **Yingyi Zhang**, Xiaopeng Li, Pengyue Jia, Yi Wen, Derong Xu, Maolin Wang, Yichao Wang, Yong Liu and Xiangyu Zhao.
     **[To Search or Not to Search: Aligning the Decision Boundary of Deep Search Agents via Causal Intervention.](https://zhang-yingyi.github.io/)**. 
     *<i style="color:#e74d3c">Accepted at WWW'26</i>*
