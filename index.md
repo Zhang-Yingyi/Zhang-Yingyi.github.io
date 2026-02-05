@@ -45,12 +45,6 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
 
 {% include_relative _includes/publications.md %}
 
-- Our Survey Paper
-    - Maolin Wang✨, **Yingyi Zhang**✨, Bowen Yu✨, Bingguang Hao, Cunyin Peng, Yicheng Chen, Wei Zhou, Jinjie Gu, Chenyi Zhuang, Ruocheng Guo, Wanyu Wang, Xiangyu Zhao. 
-    **[Function Calling in Large Language Models: Industrial Practices, Challenges, and Future Directions](https://openreview.net/pdf?id=LNxVGPedFW)**. 
-    *<i style="color:#e74d3c">Accepted at CSUR</i>*
-    
-    
 
 - Other Metioned Papers
     -  Yue Feng, **Yingyi Zhang**, Ming Cong, Lili Rong.
