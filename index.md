@@ -49,12 +49,8 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
     - Maolin Wang✨, **Yingyi Zhang**✨, Bowen Yu✨, Bingguang Hao, Cunyin Peng, Yicheng Chen, Wei Zhou, Jinjie Gu, Chenyi Zhuang, Ruocheng Guo, Wanyu Wang, Xiangyu Zhao. 
     **[Function Calling in Large Language Models: Industrial Practices, Challenges, and Future Directions](https://openreview.net/pdf?id=LNxVGPedFW)**. 
     *<i style="color:#e74d3c">Accepted at CSUR</i>*
-    - Xiaopeng Li, Pengyue Jia, Derong Xu, Yi Wen, **Yingyi Zhang**, Wenlin Zhang, Wanyu Wang, Yichao Wang, Zhaocheng Du, Xiangyang Li, Yong Liu, Huifeng Guo, Ruiming Tang, Xiangyu Zhao. 
-    **[A Survey of Personalization: From RAG to Agent](https://arxiv.org/abs/2504.10147)**. 
-    *<i style="color:#e74d3c">Accepted at TOIS</i>*
-    - Wenlin Zhang, Xiaopeng Li, **Yingyi Zhang**, Pengyue Jia, Yichao Wang, Huifeng Guo, Yong Liu, Xiangyu Zhao. 
-    **[Deep research: A survey of autonomous research agents](https://arxiv.org/abs/2508.12752)**. 
-    *Preprint*
+    
+    
 
 - Other Metioned Papers
     -  Yue Feng, **Yingyi Zhang**, Ming Cong, Lili Rong.
@@ -66,6 +62,12 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
     -  Wenlin Zhang, Kuicai Dong, Junyi Li, **Yingyi Zhang**, Xiaopeng Li, Pengyue Jia, Yi Wen, Derong Xu, Maolin Wang, Yichao Wang, Yong Liu and Xiangyu Zhao.
     **[To Search or Not to Search: Aligning the Decision Boundary of Deep Search Agents via Causal Intervention](https://zhang-yingyi.github.io/)**. 
     *<i style="color:#e74d3c">Accepted at WWW'26</i>*
+    - Xiaopeng Li, Pengyue Jia, Derong Xu, Yi Wen, **Yingyi Zhang**, Wenlin Zhang, Wanyu Wang, Yichao Wang, Zhaocheng Du, Xiangyang Li, Yong Liu, Huifeng Guo, Ruiming Tang, Xiangyu Zhao. 
+    **[A Survey of Personalization: From RAG to Agent](https://arxiv.org/abs/2504.10147)**. 
+    *<i style="color:#e74d3c">Accepted at TOIS</i>*
+    - Wenlin Zhang, Xiaopeng Li, **Yingyi Zhang**, Pengyue Jia, Yichao Wang, Huifeng Guo, Yong Liu, Xiangyu Zhao. 
+    **[Deep research: A survey of autonomous research agents](https://arxiv.org/abs/2508.12752)**. 
+    *Preprint*
     - Wenlin Zhang, Xiangyang Li, Kuicai Dong, Yichao Wang, Pengyue Jia, Xiaopeng Li, **Yingyi Zhang**, Derong Xu, Zhaocheng Du, Huifeng Guo, Ruiming Tang, Xiangyu Zhao. 
     **[Process vs. Outcome Reward: Which is Better for Agentic RAG Reinforcement Learning](https://arxiv.org/abs/2505.14069)**. 
     *<i style="color:#e74d3c">Accepted at Neurips'25</i>*

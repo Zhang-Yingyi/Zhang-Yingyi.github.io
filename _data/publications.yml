@@ -9,6 +9,16 @@ main:
     image: ./assets/img/covers/RF_Mem.png
     # notes: Oral
 
+  - title: "Function Calling in Large Language Models: Industrial Practices, Challenges, and Future Directions"
+    authors:  Maolin Wang✨, **Yingyi Zhang**✨, Bowen Yu✨, Bingguang Hao, Cunyin Peng, Yicheng Chen, Wei Zhou, Jinjie Gu, Chenyi Zhuang, Ruocheng Guo, Wanyu Wang, Xiangyu Zhao. 
+    conference_short: ACM CSUR
+    conference: ACM Computing Surveys, 2026.
+    pdf: https://dl.acm.org/doi/10.1145/3788284
+    # code: https://github.com/Applied-Machine-Learning-Lab/GeoArena
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/covers/CSUR_FC.png
+    notes: Top 1 Survey Journal in Computer Science, IF=26.3
+
   - title: "GeoArena: An Open Platform for Benchmarking Large Vision-language Models on WorldWide Image Geolocalization"
     authors:  Pengyue Jia✨, <strong>Yingyi Zhang✨</strong>, Xiangyu Zhao, Sharon Li
     conference_short: Arxiv
