@@ -10,7 +10,7 @@ main:
     # notes: Oral
 
   - title: "Function Calling in Large Language Models: Industrial Practices, Challenges, and Future Directions"
-    authors:  Maolin Wang✨, **Yingyi Zhang**✨, Bowen Yu✨, Bingguang Hao, Cunyin Peng, Yicheng Chen, Wei Zhou, Jinjie Gu, Chenyi Zhuang, Ruocheng Guo, Wanyu Wang, Xiangyu Zhao. 
+    authors:  Maolin Wang✨, <strong>Yingyi Zhang✨</strong>, Bowen Yu✨, Bingguang Hao, Cunyin Peng, Yicheng Chen, Wei Zhou, Jinjie Gu, Chenyi Zhuang, Ruocheng Guo, Wanyu Wang, Xiangyu Zhao. 
     conference_short: ACM CSUR
     conference: ACM Computing Surveys, 2026.
     pdf: https://dl.acm.org/doi/10.1145/3788284
@@ -114,14 +114,3 @@ main:
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/covers/paper2022.png
     notes: An Online Deployed Systems in Meituan
-
-  # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-  #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  #   conference_short: CVPR
-  #   conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-  #   pdf: https://arxiv.org/pdf/2002.10211.pdf
-  #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-  #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   notes: Oral Presentation
-  #   image: ./assets/img/teaser_example.png
