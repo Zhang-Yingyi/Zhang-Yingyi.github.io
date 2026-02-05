@@ -58,13 +58,13 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
 
 - Other Metioned Papers
     -  Yue Feng, **Yingyi Zhang**, Ming Cong, Lili Rong.
-    **[When coordinated response meets complexity in catastrophes: Unlocking cross-sectoral emergency resource sharing.](https://www.sciencedirect.com/science/article/pii/S0957417426003726)**. 
+    **[When coordinated response meets complexity in catastrophes: Unlocking cross-sectoral emergency resource sharing](https://www.sciencedirect.com/science/article/pii/S0957417426003726)**. 
     *<i style="color:#e74d3c">Accepted at ESWA</i>*
     -  Derong Xu, Yi Wen, Pengyue Jia, **Yingyi Zhang**, Wenlin Zhang, Yichao Wang, Huifeng Guo, Ruiming Tang, Xiangyu Zhao, Enhong Chen, Tong Xu.
-    **[From Single to Multi-Granularity: Toward Long-Term Memory Association and Selection of Conversational Agents.](https://openreview.net/pdf?id=i2yIvZARnG)**. 
+    **[From Single to Multi-Granularity: Toward Long-Term Memory Association and Selection of Conversational Agents](https://openreview.net/pdf?id=i2yIvZARnG)**. 
     *<i style="color:#e74d3c">Accepted at ICLR'26</i>*
     -  Wenlin Zhang, Kuicai Dong, Junyi Li, **Yingyi Zhang**, Xiaopeng Li, Pengyue Jia, Yi Wen, Derong Xu, Maolin Wang, Yichao Wang, Yong Liu and Xiangyu Zhao.
-    **[To Search or Not to Search: Aligning the Decision Boundary of Deep Search Agents via Causal Intervention.](https://zhang-yingyi.github.io/)**. 
+    **[To Search or Not to Search: Aligning the Decision Boundary of Deep Search Agents via Causal Intervention](https://zhang-yingyi.github.io/)**. 
     *<i style="color:#e74d3c">Accepted at WWW'26</i>*
     - Wenlin Zhang, Xiangyang Li, Kuicai Dong, Yichao Wang, Pengyue Jia, Xiaopeng Li, **Yingyi Zhang**, Derong Xu, Zhaocheng Du, Huifeng Guo, Ruiming Tang, Xiangyu Zhao. 
     **[Process vs. Outcome Reward: Which is Better for Agentic RAG Reinforcement Learning](https://arxiv.org/abs/2505.14069)**. 
