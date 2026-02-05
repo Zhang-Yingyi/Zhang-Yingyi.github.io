@@ -13,6 +13,7 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
 
 
 ## 🔥 News
+- **[Feb. 2026]** Our paper about *Emergency Resource Management* is accepted to **ESWA**, congrats to Yue Feng!
 - **[Jan. 2026]** Our paper about *Personalized Memory Retrieval* is accepted to **ICLR'26**.
 - **[Jan. 2026]** Our paper about *Memory Management* is accepted to **ICLR'26**, congrats to Derong!
 - **[Jan. 2026]** Our paper about *Search Agent Boundary* is accepted to **WWW'26**, congrats to Wenlin!
@@ -22,7 +23,7 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
 - **[Nov. 2025]** Our paper about *Personalized Pre-Retrieval* is accepted to **AAAI'26** as <strong> <i style="color:#e74d3c">🌟ORAL</i></strong>!
 - **[Nov. 2025]** Our paper about *LLM4Rank* is accepted to **AAAI'26**, congrats to Zhewei!
 - **[Sep. 2025]** Our paper about *Agentic RAG* is accepted to **Neurips'25**, congrats to Wenlin!
-- **[Aug. 2025]** Our paper about *Debias in RecSys* is accepted to **CIKM'25**, congrats to Yue!
+- **[Aug. 2025]** Our paper about *Debias in RecSys* is accepted to **CIKM'25**, congrats to Yue Que!
 - **[May. 2025]** Our paper about *Cloud-Device Collaboration* is accepted to **KDD'25**!
 - **[Feb. 2025]** Our paper about *User Intent Recognition* is accepted to **WWW'25**, congrats to Zhipeng!
 - **[Feb. 2025]** Our BMI@DLUT win the <strong><i style="color:#e74d3c">🥉bronze medal</i></strong> at WWW compitition: Multimodal Dialogue System Intent Recognition Challenge!
@@ -56,6 +57,9 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
     *Preprint*
 
 - Other Metioned Papers
+    -  Yue Feng, **Yingyi Zhang**, Ming Cong, Lili Rong.
+    **[When coordinated response meets complexity in catastrophes: Unlocking cross-sectoral emergency resource sharing.](https://www.sciencedirect.com/science/article/pii/S0957417426003726)**. 
+    *<i style="color:#e74d3c">Accepted at ESWA</i>*
     -  Derong Xu, Yi Wen, Pengyue Jia, **Yingyi Zhang**, Wenlin Zhang, Yichao Wang, Huifeng Guo, Ruiming Tang, Xiangyu Zhao, Enhong Chen, Tong Xu.
     **[From Single to Multi-Granularity: Toward Long-Term Memory Association and Selection of Conversational Agents.](https://openreview.net/pdf?id=i2yIvZARnG)**. 
     *<i style="color:#e74d3c">Accepted at ICLR'26</i>*
