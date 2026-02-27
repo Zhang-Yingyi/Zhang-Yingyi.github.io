@@ -13,6 +13,7 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
 
 
 ## 🔥 News
+- **[Feb. 2026]** Our  <strong><i style="color:#e74d3c">Tutorial</i></strong> about *LLM Function Call* is accepted to **PAKDD'26**, congrats to Prof. Maolin!
 - **[Feb. 2026]** Our paper about *Emergency Resource Management* is accepted to **ESWA**, congrats to Yue Feng!
 - **[Jan. 2026]** Our paper about *Personalized Memory Retrieval* is accepted to **ICLR'26**.
 - **[Jan. 2026]** Our paper about *Memory Management* is accepted to **ICLR'26**, congrats to Derong!
