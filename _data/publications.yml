@@ -44,7 +44,7 @@ main:
     authors: Zhewei Zhi✨, <strong>Yingyi Zhang✨</strong>, Yizhen Jing, Xianneng Li✉️, Jianing Liu, Huajie Liu, Yongliang Ding
     conference_short: AAAI'26
     conference: The 40th Annual AAAI Conference on Artificial Intelligence <strong>(AAAI'26)</strong>, 2025.
-    # pdf: https://dl.acm.org/doi/10.1145/3711896.3737036
+    pdf: https://doi.org/10.1609/aaai.v40i41.40811 
     # code: https://github.com/Applied-Machine-Learning-Lab/LSRP
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/covers/C2R.png
