@@ -13,7 +13,7 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
 
 
 ## 🔥 News
-- **[Mar. 2026]** I am selected as <strong><i style="color:#e74d3c">volunteer</i></strong>  for **ICLR'26**!
+- **[Mar. 2026]** I am selected as <strong><i style="color:#e74d3c">Volunteer</i></strong>  for **ICLR'26**!
 - **[Feb. 2026]** Our  <strong><i style="color:#e74d3c">Tutorial</i></strong> about *LLM Function Call* is accepted to **PAKDD'26**, congrats to Prof. Maolin!
 - **[Feb. 2026]** Our paper about *Emergency Resource Management* is accepted to **ESWA**, congrats to Yue Feng!
 - **[Jan. 2026]** Our paper about *Personalized Memory Retrieval* is accepted to **ICLR'26**.
@@ -28,7 +28,7 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
 - **[Aug. 2025]** Our paper about *Debias in RecSys* is accepted to **CIKM'25**, congrats to Yue Que!
 - **[May. 2025]** Our paper about *Cloud-Device Collaboration* is accepted to **KDD'25**!
 - **[Feb. 2025]** Our paper about *User Intent Recognition* is accepted to **WWW'25**, congrats to Zhipeng!
-- **[Feb. 2025]** Our BMI@DLUT win the <strong><i style="color:#e74d3c">🥉bronze medal</i></strong> at WWW compitition: Multimodal Dialogue System Intent Recognition Challenge!
+- **[Feb. 2025]** Our BMI@DLUT win the <strong><i style="color:#e74d3c">🥉Bronze Medal</i></strong> at WWW compitition: Multimodal Dialogue System Intent Recognition Challenge!
 - **[Sep. 2024]** I started the joint PhD program bewteen DUT and CityU, joint supervised by Prof. Xianneng Li (at DUT) and Prof.Xiangyu Zhao (at CityU).
 - **[Aug. 2024]** Our BMI@DLUT team awarded the <strong><i style="color:#e74d3c">🥈Second Prize</i></strong> and <strong><i style="color:#e74d3c">Student Award</i></strong> in the KDD Cup 2024, User Behavior Alignment Track!
 - **[Nov. 2023]** Our paper about *Debias in RecSys* is accepted to **CAI'23**, congrats to Yudi!

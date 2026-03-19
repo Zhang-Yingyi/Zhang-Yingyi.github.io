@@ -34,7 +34,7 @@ main:
     authors:  <strong>Yingyi Zhang✨</strong>, Pengyue Jia✨,  Derong Xu, Yi Wen, Xianneng Li✉️, Yichao Wang✉️, Wenlin Zhang, Xiaopeng Li, Weinan Gan, Huifeng Guo, Yong Liu, Xiangyu Zhao✉️
     conference_short: AAAI'26-Oral
     conference: The 40th Annual AAAI Conference on Artificial Intelligence <strong>(AAAI'26)</strong>, 2025.
-    pdf: https://arxiv.org/pdf/2510.08935
+    pdf: https://doi.org/10.1609/aaai.v40i19.38679
     code: https://github.com/Applied-Machine-Learning-Lab/PBR-code
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/covers/PBR.png
