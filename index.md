@@ -13,6 +13,7 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
 
 
 ## 🔥 News
+- **[Mar. 2026]** I am selected as <strong><i style="color:#e74d3c">volunteer</i></strong>  for **ICLR'26**!
 - **[Feb. 2026]** Our  <strong><i style="color:#e74d3c">Tutorial</i></strong> about *LLM Function Call* is accepted to **PAKDD'26**, congrats to Prof. Maolin!
 - **[Feb. 2026]** Our paper about *Emergency Resource Management* is accepted to **ESWA**, congrats to Yue Feng!
 - **[Jan. 2026]** Our paper about *Personalized Memory Retrieval* is accepted to **ICLR'26**.
@@ -84,10 +85,12 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
   - Studied on Cross Business Domain Complementary and Fusion Methods from Perspective of Consumer Behavior Understanding.
 
 ## ✏️ Services
-- Reviewer
-    - AAAI 2026
-
 - Volunteer
-    - AAAI 2026
+    - 2026: AAAI, ICLR
+    
+- Reviewer
+    - 2026: AAAI 
+
+
 
 <!-- {% include_relative _includes/services.md %} -->
