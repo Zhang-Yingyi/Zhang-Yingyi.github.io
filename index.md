@@ -13,6 +13,8 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
 
 
 ## 🔥 News
+- **[Apr. 2026]** Our  <strong><i style="color:#e74d3c">Tutorial</i></strong> about *Personalized RAG* is accepted to **SIGIR'26**, congrats to Pengyue!
+- **[Apr. 2026]** Our  <strong><i style="color:#e74d3c">Resource</i></strong> about *Personalized Deep ResearchG* is accepted to **SIGIR'26**, congrats to Xiaopeng!
 - **[Mar. 2026]** I am selected as <strong><i style="color:#e74d3c">Volunteer</i></strong>  for **ICLR'26**!
 - **[Feb. 2026]** Our  <strong><i style="color:#e74d3c">Tutorial</i></strong> about *LLM Function Call* is accepted to **PAKDD'26**, congrats to Prof. Maolin!
 - **[Feb. 2026]** Our paper about *Emergency Resource Management* is accepted to **ESWA**, congrats to Yue Feng!
@@ -49,6 +51,12 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
 
 
 - Other Metioned Papers
+    -  Pengyue Jia, Xiaopeng Li, Derong Xu, Yi Wen, **Yingyi Zhang**, Wenlin Zhang, Wanyu Wang, Yichao Wang, Yong Liu, Huifeng Guo and Ruiming Tang.
+    **[Bridging Personalization and AI: From RAG to Agent](https://zhang-yingyi.github.io/)**. 
+    *<i style="color:#e74d3c">Accepted at SIGIR'26 Tutorial Track</i>*
+    -  Xiaopeng Li, Wenlin Zhang, **Yingyi Zhang**, Pengyue Jia, Yejing Wang, Yichao Wang, Yong Liu, Huifeng Guo and Xiangyu Zhao.
+    **[Personalized Deep Research: A User‑Centric Framework, Dataset, and Hybrid Evaluation for Knowledge Discovery](https://zhang-yingyi.github.io/)**. 
+    *<i style="color:#e74d3c">Accepted at SIGIR'26 Resource track</i>*
     -  Yue Feng, **Yingyi Zhang**, Ming Cong, Lili Rong.
     **[When coordinated response meets complexity in catastrophes: Unlocking cross-sectoral emergency resource sharing](https://www.sciencedirect.com/science/article/pii/S0957417426003726)**. 
     *<i style="color:#e74d3c">Accepted at ESWA</i>*
