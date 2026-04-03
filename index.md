@@ -14,7 +14,7 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
 
 ## 🔥 News
 - **[Apr. 2026]** Our  <strong><i style="color:#e74d3c">Tutorial</i></strong> about *Personalized RAG* is accepted to **SIGIR'26**, congrats to Pengyue!
-- **[Apr. 2026]** Our  <strong><i style="color:#e74d3c">Resource</i></strong> about *Personalized Deep ResearchG* is accepted to **SIGIR'26**, congrats to Xiaopeng!
+- **[Apr. 2026]** Our  <strong><i style="color:#e74d3c">Resource</i></strong> about *Personalized Deep Research* is accepted to **SIGIR'26**, congrats to Xiaopeng!
 - **[Mar. 2026]** I am selected as <strong><i style="color:#e74d3c">Volunteer</i></strong>  for **ICLR'26**!
 - **[Feb. 2026]** Our  <strong><i style="color:#e74d3c">Tutorial</i></strong> about *LLM Function Call* is accepted to **PAKDD'26**, congrats to Prof. Maolin!
 - **[Feb. 2026]** Our paper about *Emergency Resource Management* is accepted to **ESWA**, congrats to Yue Feng!
