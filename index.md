@@ -13,6 +13,10 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
 
 
 ## 🔥 News
+- **[Apr. 2026]** Our  paper about *Geographic LVLM* is accepted to **ACL'26 Main**, congrats to Pengyue!
+- **[Apr. 2026]** Our  paper about *Personalized LLM* is accepted to **ACL'26 Main**, congrats to Xiaopeng!
+- **[Apr. 2026]** Our  paper about *Agentic Search* is accepted to **ACL'26 Main**, congrats to Sheng!
+- **[Apr. 2026]** Our  paper about *Evolving Memory* is accepted to **ACL'26 Main**, congrats to Derong!
 - **[Apr. 2026]** Our  <strong><i style="color:#e74d3c">Tutorial</i></strong> about *Personalized RAG* is accepted to **SIGIR'26**, congrats to Pengyue!
 - **[Apr. 2026]** Our  <strong><i style="color:#e74d3c">Resource</i></strong> about *Personalized Deep Research* is accepted to **SIGIR'26**, congrats to Xiaopeng!
 - **[Mar. 2026]** I am selected as <strong><i style="color:#e74d3c">Volunteer</i></strong>  for **ICLR'26**!
@@ -51,6 +55,15 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
 
 
 - Other Metioned Papers
+    -  Xiaopeng Li, Yuanjin Zheng, Wanyu Wang, Wenlin Zhang, Pengyue Jia, **Yingyi Zhang**, Haiying He, Mengyang Ma, Yiqi Wang, Maolin Wang, Xuetao Wei and Xiangyu Zhao 
+    **[MTA:A Merge-then-Adapt Framework for Personalized Large Language Modelsy](https://zhang-yingyi.github.io/)**. 
+    *<i style="color:#e74d3c">Accepted at ACL'26 Main</i>*
+    -  Sheng Zhang, Junyi Li, **Yingyi Zhang**, Pengyue Jia, Yichao Wang, Xiaowei Qian, Wenlin Zhang, Maolin Wang, Yong Liu abd Xiangyu Zhao. 
+    **[MemSearch-o1: Empowering Large Language Models with Reasoning-Aligned Memory Growth in Agentic Search](https://zhang-yingyi.github.io/)**. 
+    *<i style="color:#e74d3c">Accepted at ACL'26 Main</i>*
+    -  Derong Xu, Shuochen Liu, Pengfei Luo, Pengyue Jia, **Yingyi Zhang**, Yi Wen, Yimin Deng, Wenlin Zhang, Enhong Chen, Xiangyu Zhao and Tong Xu.
+    **[Learning How and What to Memorize: Cognition-Inspired Two-Stage Optimization for Evolving Memory](https://zhang-yingyi.github.io/)**. 
+    *<i style="color:#e74d3c">Accepted at ACL'26 Main</i>*
     -  Pengyue Jia, Xiaopeng Li, Derong Xu, Yi Wen, **Yingyi Zhang**, Wenlin Zhang, Wanyu Wang, Yichao Wang, Yong Liu, Huifeng Guo and Ruiming Tang.
     **[Bridging Personalization and AI: From RAG to Agent](https://zhang-yingyi.github.io/)**. 
     *<i style="color:#e74d3c">Accepted at SIGIR'26 Tutorial Track</i>*
