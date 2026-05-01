@@ -13,6 +13,7 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
 
 
 ## 🔥 News
+- **[May. 2026]** Our  paper about *Tool-Integrated Agents* is accepted to **ICML'26** as <strong> <i style="color:#e74d3c">🌟Spotlight</i></strong>, congrats to Dr. Junyi!
 - **[Apr. 2026]** Our  paper about *Geographic LVLM* is accepted to **ACL'26 Main**, congrats to Pengyue!
 - **[Apr. 2026]** Our  paper about *Personalized LLM* is accepted to **ACL'26 Main**, congrats to Xiaopeng!
 - **[Apr. 2026]** Our  paper about *Agentic Search* is accepted to **ACL'26 Main**, congrats to Sheng!
@@ -55,8 +56,11 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
 
 
 - Other Metioned Papers
+    - Junyi Li, Xiaowei Qian, **Yingyi Zhang**, Wenlin Zhang, Guojing Li, Sheng Zhang, Xiao Han, Yichao Wang and Xiangyu Zhao
+    **[Towards Pareto-Optimal Tool-Integrated Agents with Pareto Ranking Policy Optimization](https://zhang-yingyi.github.io/)**. 
+   *<i style="color:#e74d3c">ICML’26 as Spotlight paper</i>*
     -  Xiaopeng Li, Yuanjin Zheng, Wanyu Wang, Wenlin Zhang, Pengyue Jia, **Yingyi Zhang**, Haiying He, Mengyang Ma, Yiqi Wang, Maolin Wang, Xuetao Wei and Xiangyu Zhao 
-    **[MTA:A Merge-then-Adapt Framework for Personalized Large Language Modelsy](https://zhang-yingyi.github.io/)**. 
+    **[MTA:A Merge-then-Adapt Framework for Personalized Large Language Models](https://zhang-yingyi.github.io/)**. 
     *<i style="color:#e74d3c">Accepted at ACL'26 Main</i>*
     -  Sheng Zhang, Junyi Li, **Yingyi Zhang**, Pengyue Jia, Yichao Wang, Xiaowei Qian, Wenlin Zhang, Maolin Wang, Yong Liu abd Xiangyu Zhao. 
     **[MemSearch-o1: Empowering Large Language Models with Reasoning-Aligned Memory Growth in Agentic Search](https://zhang-yingyi.github.io/)**. 
