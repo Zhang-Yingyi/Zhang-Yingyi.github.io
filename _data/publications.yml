@@ -1,4 +1,16 @@
 main:
+
+  - title: "From Local Indices to Global Identifiers: Generative Reranking for Recommender Systems via Global Action Space"
+    authors:  Pengyue Jia✨, Xiaobei Wang✨, <strong>Yingyi Zhang✨</strong>, Shuchang Liu, Yupeng Hou, Hailan Yang, Xu Gao, Xiaopeng Li, Yejing Wang, Julian McAuley, Xiang Li, Lantao Hu, Yongqi Liu, Kaiqiao Zhan, Han Li, Kun Gai, Xiangyu Zhao
+    conference_short: Arxiv
+    conference: Preprints <strong>Arxiv</strong>, 2026.
+    pdf: https://arxiv.org/abs/2604.25291
+    # code: https://github.com/Applied-Machine-Learning-Lab/GeoArena
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/covers/GloRank.png
+    # notes: Oral
+    
+
   - title: "GeoArena: An Open Platform for Benchmarking Large Vision-language Models on WorldWide Image Geolocalization"
     authors:  Pengyue Jia✨, <strong>Yingyi Zhang✨</strong>, Xiangyu Zhao, Sharon Li
     conference_short: ACL'26-Main
