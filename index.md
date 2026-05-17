@@ -36,7 +36,7 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
 - **[May. 2025]** Our paper about *Cloud-Device Collaboration* is accepted to **KDD'25**!
 - **[Feb. 2025]** Our paper about *User Intent Recognition* is accepted to **WWW'25**, congrats to Zhipeng!
 - **[Feb. 2025]** Our BMI@DLUT win the <strong><i style="color:#e74d3c">🥉Bronze Medal</i></strong> at WWW compitition: Multimodal Dialogue System Intent Recognition Challenge!
-- **[Sep. 2024]** I started the joint PhD program bewteen DUT and CityU, joint supervised by Prof. Xianneng Li (at DUT) and Prof.Xiangyu Zhao (at CityU).
+- **[Sep. 2024]** I start the joint PhD. program bewteen DUT and CityU, joint supervised by Prof. Xianneng Li (at DUT) and Prof.Xiangyu Zhao (at CityU).
 - **[Aug. 2024]** Our BMI@DLUT team awarded the <strong><i style="color:#e74d3c">🥈Second Prize</i></strong> and <strong><i style="color:#e74d3c">Student Award</i></strong> in the KDD Cup 2024, User Behavior Alignment Track!
 - **[Nov. 2023]** Our paper about *Debias in RecSys* is accepted to **CAI'23**, congrats to Yudi!
 - **[Sep. 2023]** Our BMI@DLUT win the <strong><i style="color:#e74d3c">🥉National Third Place</i></strong> at Supreme People’s Procuratorate National Procuratorate Big Data Legal Supervision!
@@ -44,8 +44,8 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
 - **[Jun. 2023]** Our paper about *Multi-Task in RecSys* is accepted to **RecSys'23**, congrats to Zerong!
 - **[Jan. 2023]** Our paper about *Multi-Domain in RecSys* is accepted to **WWW'23**!
 - **[Jan. 2023]** Our paper about *User Modelling in RecSys* is accepted to **Journal of Management Sciences in China**, the Top 1 Chinese journal in Management and Science!
-- **[Sep. 2022]** I started my PhD. Career at DUT, supervised by Prof. Xianneng Li.
-- **[Sep. 2021]** I started the research intern at Metituan in the search group.
+- **[Sep. 2022]** I start my PhD. career at DUT, supervised by Prof. Xianneng Li.
+- **[Sep. 2021]** I start the research intern at Meituan in the search group.
 
 
 {% include_relative _includes/awards.md %}
@@ -114,7 +114,7 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
     - 2026: AAAI, ICLR
     
 - Reviewer
-    - 2026: AAAI 
+    - 2026: AAAI
 
 
 

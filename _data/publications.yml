@@ -12,7 +12,7 @@ main:
     
 
   - title: "GeoArena: An Open Platform for Benchmarking Large Vision-language Models on WorldWide Image Geolocalization"
-    authors:  Pengyue Jia✨, <strong>Yingyi Zhang✨</strong>, Xiangyu Zhao, Sharon Li
+    authors:  Pengyue Jia✨, <strong>Yingyi Zhang✨</strong>, Xiangyu Zhao✉️, Sharon Li
     conference_short: ACL'26-Main
     conference: The 64th Annual Meeting of the Association for Computational Linguistics <strong>(ACL'26)</strong>, 2026.
     pdf: https://arxiv.org/pdf/2509.04334
