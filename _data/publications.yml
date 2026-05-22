@@ -1,5 +1,13 @@
 main:
-
+  - title: "RAGR: Review-Augmented Generative Recommendation"
+    authors:  <strong>Yingyi Zhang</strong>, Junyi Li, Yejing Wang, Wenlin Zhang, Xiaowei Qian, Sheng Zhang, Yue Feng, Yichao Wang, Yong Liu, Xiangyu Zhao, Xianneng Li
+    conference_short: Arxiv
+    conference: Preprints <strong>Arxiv</strong>, 2026.
+    pdf: https://arxiv.org/abs/2605.17267
+    code: https://github.com/Zhang-Yingyi/TKDE_RAGR
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/covers/RAGR.png
+    # notes: Oral
   - title: "From Local Indices to Global Identifiers: Generative Reranking for Recommender Systems via Global Action Space"
     authors:  Pengyue Jia✨, Xiaobei Wang✨, <strong>Yingyi Zhang✨</strong>, Shuchang Liu, Yupeng Hou, Hailan Yang, Xu Gao, Xiaopeng Li, Yejing Wang, Julian McAuley, Xiang Li, Lantao Hu, Yongqi Liu, Kaiqiao Zhan, Han Li, Kun Gai, Xiangyu Zhao
     conference_short: Arxiv
