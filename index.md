@@ -111,7 +111,9 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
     
     
 ## 💻 Internships
-- **Oct. 2024 - Now**: Research Intern at Huawei, Noah's Ark Lab.
+- **Apr. 2026 - Now**: Recommendation Intern at Bytedance (<i style="color:#e74d3c">Frontier Tech Project</i>).
+    - Working on the intersection between LLM-based agent and RecSys.
+- **Oct. 2024 - Apr. 2026**: Research Intern at Huawei, Noah's Ark Lab.
     - Working on Personalized RAG and Recommendation with LLM.
 - **Sep. 2021 - Jul. 2022**: Research Intern at Meituan, Search Group.
   - Studied on Cross Business Domain Complementary and Fusion Methods from Perspective of Consumer Behavior Understanding.
