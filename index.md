@@ -6,6 +6,8 @@ layout: homepage
 
 I am now a fourth-year PhD candidate at the joint program between Dalian University of Technology (DUT) and City University of Hong Kong (CityU). And I am jointly supervised by [Prof. Xianneng Li](https://faculty.dlut.edu.cn/li/zh_CN/index.htm) (at DUT) and [Prof. Xiangyu Zhao](https://zhaoxyai.github.io/) (at CityU). Before that, I graduated from DUT with a bachelor’s degree in Information Management and Information Systems in 2020. My interests lie in Personalized Recommender System, Personalized RAG, and Personalized LLM.
 
+<p style="color:#e74d3c; font-weight: bold;">I am currently on the job market, expected to graduate in June 2027, and I am looking for opportunities as a recommendation algorithm engineer, agent algorithm engineer, or related roles.</p>
+
 <!-- ## Research Interests
 
 - **Computer Vision:** image recognition, image generation, video captioning
@@ -13,6 +15,8 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
 
 
 ## 🔥 News
+- **[Aug. 2026]** Our  paper about *Generative Auto-Bidding* is accepted to **CIKM'26**, congrats to Binling!
+- **[Aug. 2026]** Our  paper about *Generative Rerank* is accepted to **CIKM'26**, congrats to Penyue!
 - **[May. 2026]** Our  paper about *Tool-Integrated Agents* is accepted to **ICML'26** as <strong> <i style="color:#e74d3c">🌟Spotlight</i></strong>, congrats to Dr. Junyi!
 - **[Apr. 2026]** Our  paper about *Geographic LVLM* is accepted to **ACL'26 Main**, congrats to Pengyue!
 - **[Apr. 2026]** Our  paper about *Personalized LLM* is accepted to **ACL'26 Main**, congrats to Xiaopeng!
@@ -56,23 +60,26 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
 
 
 - Other Metioned Papers
+    - Binglin Wu, **Yingyi Zhang**, Xianneng Li, Ruyue Deng, Chuan Yue, Weiru Zhang, Xiaoyi Zeng
+    **[Constraint-Aware Generative Auto-bidding via Pareto-Prioritized Regret Optimization](https://arxiv.org/abs/2602.08261)**. 
+    *<i style="color:#e74d3c">Accepted at CIKM'26</i>*
     - Junyi Li, Xiaowei Qian, **Yingyi Zhang**, Wenlin Zhang, Guojing Li, Sheng Zhang, Xiao Han, Yichao Wang and Xiangyu Zhao
-    **[Towards Pareto-Optimal Tool-Integrated Agents with Pareto Ranking Policy Optimization](https://zhang-yingyi.github.io/)**. 
-   *<i style="color:#e74d3c">ICML’26 as Spotlight paper</i>*
+    **[Towards Pareto-Optimal Tool-Integrated Agents with Pareto Ranking Policy Optimization](https://icml.cc/virtual/2026/poster/65819)**. 
+    *<i style="color:#e74d3c">Accepted at ICML’26 as Spotlight paper</i>*
     -  Xiaopeng Li, Yuanjin Zheng, Wanyu Wang, Wenlin Zhang, Pengyue Jia, **Yingyi Zhang**, Haiying He, Mengyang Ma, Yiqi Wang, Maolin Wang, Xuetao Wei and Xiangyu Zhao 
-    **[MTA:A Merge-then-Adapt Framework for Personalized Large Language Models](https://zhang-yingyi.github.io/)**. 
+    **[MTA:A Merge-then-Adapt Framework for Personalized Large Language Models](https://aclanthology.org/2026.acl-long.2040/)**. 
     *<i style="color:#e74d3c">Accepted at ACL'26 Main</i>*
     -  Sheng Zhang, Junyi Li, **Yingyi Zhang**, Pengyue Jia, Yichao Wang, Xiaowei Qian, Wenlin Zhang, Maolin Wang, Yong Liu abd Xiangyu Zhao. 
-    **[MemSearch-o1: Empowering Large Language Models with Reasoning-Aligned Memory Growth in Agentic Search](https://zhang-yingyi.github.io/)**. 
+    **[MemSearch-o1: Empowering Large Language Models with Reasoning-Aligned Memory Growth in Agentic Search](https://aclanthology.org/2026.acl-long.41/)**. 
     *<i style="color:#e74d3c">Accepted at ACL'26 Main</i>*
     -  Derong Xu, Shuochen Liu, Pengfei Luo, Pengyue Jia, **Yingyi Zhang**, Yi Wen, Yimin Deng, Wenlin Zhang, Enhong Chen, Xiangyu Zhao and Tong Xu.
-    **[Learning How and What to Memorize: Cognition-Inspired Two-Stage Optimization for Evolving Memory](https://zhang-yingyi.github.io/)**. 
+    **[Learning How and What to Memorize: Cognition-Inspired Two-Stage Optimization for Evolving Memory](https://aclanthology.org/2026.acl-long.2084/)**. 
     *<i style="color:#e74d3c">Accepted at ACL'26 Main</i>*
     -  Pengyue Jia, Xiaopeng Li, Derong Xu, Yi Wen, **Yingyi Zhang**, Wenlin Zhang, Wanyu Wang, Yichao Wang, Yong Liu, Huifeng Guo and Ruiming Tang.
-    **[Bridging Personalization and AI: From RAG to Agent](https://zhang-yingyi.github.io/)**. 
+    **[Bridging Personalization and AI: From RAG to Agent](https://dl.acm.org/doi/10.1145/3805712.3808639)**. 
     *<i style="color:#e74d3c">Accepted at SIGIR'26 Tutorial Track</i>*
     -  Xiaopeng Li, Wenlin Zhang, **Yingyi Zhang**, Pengyue Jia, Yejing Wang, Yichao Wang, Yong Liu, Huifeng Guo and Xiangyu Zhao.
-    **[Personalized Deep Research: A User‑Centric Framework, Dataset, and Hybrid Evaluation for Knowledge Discovery](https://zhang-yingyi.github.io/)**. 
+    **[Personalized Deep Research: A User‑Centric Framework, Dataset, and Hybrid Evaluation for Knowledge Discovery](https://dl.acm.org/doi/10.1145/3805712.3808609)**. 
     *<i style="color:#e74d3c">Accepted at SIGIR'26 Resource track</i>*
     -  Yue Feng, **Yingyi Zhang**, Ming Cong, Lili Rong.
     **[When coordinated response meets complexity in catastrophes: Unlocking cross-sectoral emergency resource sharing](https://www.sciencedirect.com/science/article/pii/S0957417426003726)**. 
