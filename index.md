@@ -17,6 +17,7 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
 ## 🔥 News
 - **[Aug. 2026]** Our  paper about *Generative Auto-Bidding* is accepted to **CIKM'26**, congrats to Binglin!
 - **[Aug. 2026]** Our  paper about *Generative Rerank* is accepted to **CIKM'26**, congrats to Penyue!
+- **[Aug. 2026]** Our  paper about *Agentic Search* is accepted to **CIKM'26**, congrats to Sheng!
 - **[May. 2026]** Our  paper about *Tool-Integrated Agents* is accepted to **ICML'26** as <strong> <i style="color:#e74d3c">🌟Spotlight</i></strong>, congrats to Dr. Junyi!
 - **[Apr. 2026]** Our  paper about *Geographic LVLM* is accepted to **ACL'26 Main**, congrats to Pengyue!
 - **[Apr. 2026]** Our  paper about *Personalized LLM* is accepted to **ACL'26 Main**, congrats to Xiaopeng!
@@ -62,6 +63,9 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
 - Other Metioned Papers
     - Binglin Wu, **Yingyi Zhang**, Xianneng Li, Ruyue Deng, Chuan Yue, Weiru Zhang, Xiaoyi Zeng
     **[Constraint-Aware Generative Auto-bidding via Pareto-Prioritized Regret Optimization](https://arxiv.org/abs/2602.08261)**. 
+    *<i style="color:#e74d3c">Accepted at CIKM'26</i>*
+    - Sheng Zhang, Junyi Li, Wenlin Zhang, Xiaowei Qian, Yichao Wang, **Yingyi Zhang**, Maolin Wang, Yong Liu, Xiangyu Zhao
+    **[R2-Searcher: Calibrating Retrieval and Reasoning Boundaries for Agentic Search](https://arxiv.org/abs/2606.28566)**. 
     *<i style="color:#e74d3c">Accepted at CIKM'26</i>*
     - Junyi Li, Xiaowei Qian, **Yingyi Zhang**, Wenlin Zhang, Guojing Li, Sheng Zhang, Xiao Han, Yichao Wang and Xiangyu Zhao
     **[Towards Pareto-Optimal Tool-Integrated Agents with Pareto Ranking Policy Optimization](https://icml.cc/virtual/2026/poster/65819)**. 
