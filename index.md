@@ -15,7 +15,7 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
 
 
 ## 🔥 News
-- **[Aug. 2026]** Our  paper about *Generative Auto-Bidding* is accepted to **CIKM'26**, congrats to Binling!
+- **[Aug. 2026]** Our  paper about *Generative Auto-Bidding* is accepted to **CIKM'26**, congrats to Binglin!
 - **[Aug. 2026]** Our  paper about *Generative Rerank* is accepted to **CIKM'26**, congrats to Penyue!
 - **[May. 2026]** Our  paper about *Tool-Integrated Agents* is accepted to **ICML'26** as <strong> <i style="color:#e74d3c">🌟Spotlight</i></strong>, congrats to Dr. Junyi!
 - **[Apr. 2026]** Our  paper about *Geographic LVLM* is accepted to **ACL'26 Main**, congrats to Pengyue!
