@@ -15,6 +15,10 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
 
 
 ## 🔥 News
+- **[Nov. 2026]** Our  paper about *Review-Augmented Recommendation* is accepted to **WSDM'27 Findings**!
+- **[Sep. 2026]** Our  paper about *Geographic LVLM Router* is accepted to **NIPS'26**, congrats to Pengyue!
+- **[Sep. 2026]** Our  paper about *Long-Horizon RL* is accepted to **NIPS'26**, congrats to Yi!
+- **[Sep. 2026]** Our  paper about *Agent Memory* is accepted to **NIPS'26**, congrats to Yi!
 - **[Aug. 2026]** Our  paper about *Generative Auto-Bidding* is accepted to **CIKM'26**, congrats to Binglin!
 - **[Aug. 2026]** Our  paper about *Generative Rerank* is accepted to **CIKM'26**, congrats to Penyue!
 - **[Aug. 2026]** Our  paper about *Agentic Search* is accepted to **CIKM'26**, congrats to Sheng!
@@ -61,10 +65,19 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
 
 
 - Other Metioned Papers
-    - Binglin Wu, **Yingyi Zhang**, Xianneng Li, Ruyue Deng, Chuan Yue, Weiru Zhang, Xiaoyi Zeng
+    - Pengyue Jia, Derong Xu, **Yingyi Zhang**, Xiaopeng Li, Wenlin Zhang, Yi Wen, Liu Lan, Yuanshao Zhu, Xuetao Wei, Wanyu Wang and Xiangyu Zhao
+    **[GeoRouter: Dynamic Paradigm Routing for Worldwide Image Geolocalization](https://arxiv.org/abs/2603.24376)**. 
+    *<i style="color:#e74d3c">Accepted at NIPS'26</i>*
+    - Yi Wen, Hao Chen, Wanyu Wang, Maolin Wang, Pengyue Jia, Derong Xu, Hui-Ze Tan, **Yingyi Zhang**, Wenlin Zhang, Weihong Luo, Xiku Du, and Xiangyu Zhao
+    **[TrajEvolve: Trajectory Evolution for Reinforcement Learning with Hindsight Credit Assignment](https://arxiv.org/abs/2610.28060)**. 
+    *<i style="color:#e74d3c">Accepted at NIPS'26</i>*
+    - Yi Wen, Derong Xu, Pengyue Jia, Yichao Wang, **Yingyi Zhang**, Maolin Wang, Junyi Li, Wenlin Zhang, Xiaopeng Li, Yong Liu and Xiangyu Zhao
+    **[Memory Type Varies: Empowering LLM Agents for Long-Term Memory with Diverse Strategies](https://arxiv.org/abs/2610.11573)**. 
+    *<i style="color:#e74d3c">Accepted at NIPS'26</i>*
+    - Binglin Wu, **Yingyi Zhang**, Xianneng Li, Ruyue Deng, Chuan Yue, Weiru Zhang and Xiaoyi Zeng
     **[Constraint-Aware Generative Auto-bidding via Pareto-Prioritized Regret Optimization](https://arxiv.org/abs/2602.08261)**. 
     *<i style="color:#e74d3c">Accepted at CIKM'26</i>*
-    - Sheng Zhang, Junyi Li, Wenlin Zhang, Xiaowei Qian, Yichao Wang, **Yingyi Zhang**, Maolin Wang, Yong Liu, Xiangyu Zhao
+    - Sheng Zhang, Junyi Li, Wenlin Zhang, Xiaowei Qian, Yichao Wang, **Yingyi Zhang**, Maolin Wang, Yong Liu and Xiangyu Zhao
     **[R2-Searcher: Calibrating Retrieval and Reasoning Boundaries for Agentic Search](https://arxiv.org/abs/2606.28566)**. 
     *<i style="color:#e74d3c">Accepted at CIKM'26</i>*
     - Junyi Li, Xiaowei Qian, **Yingyi Zhang**, Wenlin Zhang, Guojing Li, Sheng Zhang, Xiao Han, Yichao Wang and Xiangyu Zhao
