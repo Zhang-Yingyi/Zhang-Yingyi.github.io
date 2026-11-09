@@ -15,22 +15,24 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
 
 
 ## 🔥 News
-- **[Nov. 2026]** Our  paper about *Review-Augmented Recommendation* is accepted to **WSDM'27 Findings**!
-- **[Sep. 2026]** Our  paper about *Geographic LVLM Router* is accepted to **NIPS'26**, congrats to Pengyue!
-- **[Sep. 2026]** Our  paper about *Long-Horizon RL* is accepted to **NIPS'26**, congrats to Yi!
-- **[Sep. 2026]** Our  paper about *Agent Memory* is accepted to **NIPS'26**, congrats to Yi!
-- **[Aug. 2026]** Our  paper about *Generative Auto-Bidding* is accepted to **CIKM'26**, congrats to Binglin!
-- **[Aug. 2026]** Our  paper about *Generative Rerank* is accepted to **CIKM'26**, congrats to Penyue!
-- **[Aug. 2026]** Our  paper about *Agentic Search* is accepted to **CIKM'26**, congrats to Sheng!
-- **[May. 2026]** Our  paper about *Tool-Integrated Agents* is accepted to **ICML'26** as <strong> <i style="color:#e74d3c">🌟Spotlight</i></strong>, congrats to Dr. Junyi!
-- **[Apr. 2026]** Our  paper about *Geographic LVLM* is accepted to **ACL'26 Main**, congrats to Pengyue!
-- **[Apr. 2026]** Our  paper about *Personalized LLM* is accepted to **ACL'26 Main**, congrats to Xiaopeng!
-- **[Apr. 2026]** Our  paper about *Agentic Search* is accepted to **ACL'26 Main**, congrats to Sheng!
-- **[Apr. 2026]** Our  paper about *Evolving Memory* is accepted to **ACL'26 Main**, congrats to Derong!
-- **[Apr. 2026]** Our  <strong><i style="color:#e74d3c">Tutorial</i></strong> about *Personalized RAG* is accepted to **SIGIR'26**, congrats to Pengyue!
-- **[Apr. 2026]** Our  <strong><i style="color:#e74d3c">Resource</i></strong> about *Personalized Deep Research* is accepted to **SIGIR'26**, congrats to Xiaopeng!
+- **[Nov. 2026]** Our paper about *Review-Augmented Recommendation* is accepted to **WSDM'27 Findings**!
+- **[Oct. 2026]** I am selected as <strong><i style="color:#e74d3c">Top Reviewer</i></strong>  for **NIPS'26**!
+- **[Sep. 2026]** Our paper about *Geographic LVLM Router* is accepted to **NIPS'26**, congrats to Pengyue!
+- **[Sep. 2026]** Our paper about *Geographic LVLM Router* is accepted to **NIPS'26**, congrats to Pengyue!
+- **[Sep. 2026]** Our paper about *Long-Horizon RL* is accepted to **NIPS'26**, congrats to Yi!
+- **[Sep. 2026]** Our paper about *Agent Memory* is accepted to **NIPS'26**, congrats to Yi!
+- **[Aug. 2026]** Our paper about *Generative Auto-Bidding* is accepted to **CIKM'26**, congrats to Binglin!
+- **[Aug. 2026]** Our paper about *Generative Rerank* is accepted to **CIKM'26**, congrats to Penyue!
+- **[Aug. 2026]** Our paper about *Agentic Search* is accepted to **CIKM'26**, congrats to Sheng!
+- **[May. 2026]** Our paper about *Tool-Integrated Agents* is accepted to **ICML'26** as <strong> <i style="color:#e74d3c">🌟Spotlight</i></strong>, congrats to Dr. Junyi!
+- **[Apr. 2026]** Our paper about *Geographic LVLM* is accepted to **ACL'26 Main**, congrats to Pengyue!
+- **[Apr. 2026]** Our paper about *Personalized LLM* is accepted to **ACL'26 Main**, congrats to Xiaopeng!
+- **[Apr. 2026]** Our paper about *Agentic Search* is accepted to **ACL'26 Main**, congrats to Sheng!
+- **[Apr. 2026]** Our paper about *Evolving Memory* is accepted to **ACL'26 Main**, congrats to Derong!
+- **[Apr. 2026]** Our <strong><i style="color:#e74d3c">Tutorial</i></strong> about *Personalized RAG* is accepted to **SIGIR'26**, congrats to Pengyue!
+- **[Apr. 2026]** Our <strong><i style="color:#e74d3c">Resource</i></strong> about *Personalized Deep Research* is accepted to **SIGIR'26**, congrats to Xiaopeng!
 - **[Mar. 2026]** I am selected as <strong><i style="color:#e74d3c">Volunteer</i></strong>  for **ICLR'26**!
-- **[Feb. 2026]** Our  <strong><i style="color:#e74d3c">Tutorial</i></strong> about *LLM Function Call* is accepted to **PAKDD'26**, congrats to Prof. Maolin!
+- **[Feb. 2026]** Our <strong><i style="color:#e74d3c">Tutorial</i></strong> about *LLM Function Call* is accepted to **PAKDD'26**, congrats to Prof. Maolin!
 - **[Feb. 2026]** Our paper about *Emergency Resource Management* is accepted to **ESWA**, congrats to Yue Feng!
 - **[Jan. 2026]** Our paper about *Personalized Memory Retrieval* is accepted to **ICLR'26**.
 - **[Jan. 2026]** Our paper about *Memory Management* is accepted to **ICLR'26**, congrats to Derong!
