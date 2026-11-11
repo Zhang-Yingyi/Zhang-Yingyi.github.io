@@ -8,7 +8,8 @@ main:
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/covers/RAGR.png
     # notes: Oral
-  - title: "From Local Indices to Global Identifiers: Generative Reranking for Recommender Systems via Global Action Space"
+    
+  - title: "GloRank: Generative Reranking for Deep Recommender Systems via Global Identifier Generation"
     authors:  Pengyue Jia✨, Xiaobei Wang✨, <strong>Yingyi Zhang✨</strong>, Shuchang Liu, Yupeng Hou, Hailan Yang, Xu Gao, Xiaopeng Li, Yejing Wang, Julian McAuley, Xiang Li, Lantao Hu, Yongqi Liu, Kaiqiao Zhan, Han Li, Kun Gai, Xiangyu Zhao
     conference_short: CIKM'26
     conference: The 35th ACM International Conference on Information and Knowledge Management <strong>(CIKM'26)</strong>, 2026.
@@ -16,7 +17,8 @@ main:
     # code: https://github.com/Applied-Machine-Learning-Lab/GeoArena
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/covers/GloRank.png
-    # notes: Oral
+    notes: 🏅Best Student Full Research Paper
+
   - title: "GeoArena: An Open Platform for Benchmarking Large Vision-language Models on WorldWide Image Geolocalization"
     authors:  Pengyue Jia✨, <strong>Yingyi Zhang✨</strong>, Xiangyu Zhao✉️, Sharon Li
     conference_short: ACL'26-Main

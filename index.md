@@ -15,9 +15,9 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
 
 
 ## 🔥 News
+- **[Oct. 2026]** Our paper *GloRank* won the <strong><i style="color:#e74d3c">🏅Best Student Full Research Paper</i></strong> award at **CIKM'26**!
 - **[Nov. 2026]** Our paper about *Review-Augmented Recommendation* is accepted to **WSDM'27 Findings**!
-- **[Oct. 2026]** I am selected as <strong><i style="color:#e74d3c">Top Reviewer</i></strong>  for **NIPS'26**!
-- **[Sep. 2026]** Our paper about *Geographic LVLM Router* is accepted to **NIPS'26**, congrats to Pengyue!
+- **[Oct. 2026]** I am selected as <strong><i style="color:#e74d3c">Top Reviewer</i></strong> for **NIPS'26**!
 - **[Sep. 2026]** Our paper about *Geographic LVLM Router* is accepted to **NIPS'26**, congrats to Pengyue!
 - **[Sep. 2026]** Our paper about *Long-Horizon RL* is accepted to **NIPS'26**, congrats to Yi!
 - **[Sep. 2026]** Our paper about *Agent Memory* is accepted to **NIPS'26**, congrats to Yi!
