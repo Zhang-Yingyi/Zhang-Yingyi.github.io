@@ -15,54 +15,8 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
 
 
 ## 🔥 News
-- **[Oct. 2026]** Our paper *GloRank* won the <strong><i style="color:#e74d3c">🏅Best Student Full Research Paper</i></strong> award at **CIKM'26**!
-- **[Nov. 2026]** Our paper about *Review-Augmented Recommendation* is accepted to **WSDM'27 Findings**!
-- **[Oct. 2026]** I am selected as <strong><i style="color:#e74d3c">Top Reviewer</i></strong> for **NIPS'26**!
-- **[Sep. 2026]** Our paper about *Geographic LVLM Router* is accepted to **NIPS'26**, congrats to Pengyue!
-- **[Sep. 2026]** Our paper about *Long-Horizon RL* is accepted to **NIPS'26**, congrats to Yi!
-- **[Sep. 2026]** Our paper about *Agent Memory* is accepted to **NIPS'26**, congrats to Yi!
-- **[Aug. 2026]** Our paper about *Generative Auto-Bidding* is accepted to **CIKM'26**, congrats to Binglin!
-- **[Aug. 2026]** Our paper about *Generative Rerank* is accepted to **CIKM'26**, congrats to Penyue!
-- **[Aug. 2026]** Our paper about *Agentic Search* is accepted to **CIKM'26**, congrats to Sheng!
-- **[May. 2026]** Our paper about *Tool-Integrated Agents* is accepted to **ICML'26** as <strong> <i style="color:#e74d3c">🌟Spotlight</i></strong>, congrats to Dr. Junyi!
 
-<details class="news-more" markdown="1">
-<summary><span class="news-more-show">Show earlier news (32)</span><span class="news-more-hide">Hide earlier news</span></summary>
-
-- **[Apr. 2026]** Our paper about *Geographic LVLM* is accepted to **ACL'26 Main**, congrats to Pengyue!
-- **[Apr. 2026]** Our paper about *Personalized LLM* is accepted to **ACL'26 Main**, congrats to Xiaopeng!
-- **[Apr. 2026]** Our paper about *Agentic Search* is accepted to **ACL'26 Main**, congrats to Sheng!
-- **[Apr. 2026]** Our paper about *Evolving Memory* is accepted to **ACL'26 Main**, congrats to Derong!
-- **[Apr. 2026]** Our <strong><i style="color:#e74d3c">Tutorial</i></strong> about *Personalized RAG* is accepted to **SIGIR'26**, congrats to Pengyue!
-- **[Apr. 2026]** Our <strong><i style="color:#e74d3c">Resource</i></strong> about *Personalized Deep Research* is accepted to **SIGIR'26**, congrats to Xiaopeng!
-- **[Mar. 2026]** I am selected as <strong><i style="color:#e74d3c">Volunteer</i></strong>  for **ICLR'26**!
-- **[Feb. 2026]** Our <strong><i style="color:#e74d3c">Tutorial</i></strong> about *LLM Function Call* is accepted to **PAKDD'26**, congrats to Prof. Maolin!
-- **[Feb. 2026]** Our paper about *Emergency Resource Management* is accepted to **ESWA**, congrats to Yue Feng!
-- **[Jan. 2026]** Our paper about *Personalized Memory Retrieval* is accepted to **ICLR'26**.
-- **[Jan. 2026]** Our paper about *Memory Management* is accepted to **ICLR'26**, congrats to Derong!
-- **[Jan. 2026]** Our paper about *Search Agent Boundary* is accepted to **WWW'26**, congrats to Wenlin!
-- **[Dec. 2025]** Our <strong><i style="color:#e74d3c">Survey</i></strong> paper about *LLM Function Call* is accepted to **CSUR**, congrats to Prof. Maolin!
-- **[Dec. 2025]** Our <strong><i style="color:#e74d3c">Survey</i></strong> paper about *Personalized RAG* is accepted to **TOIS**, congrats to Xiaopeng!
-- **[Nov. 2025]** I am awarded the <strong><i style="color:#e74d3c">Student Scholarship</i></strong> prize at **AAAI'26**!
-- **[Nov. 2025]** Our paper about *Personalized Pre-Retrieval* is accepted to **AAAI'26** as <strong> <i style="color:#e74d3c">🌟ORAL</i></strong>!
-- **[Nov. 2025]** Our paper about *LLM4Rank* is accepted to **AAAI'26**, congrats to Zhewei!
-- **[Sep. 2025]** Our paper about *Agentic RAG* is accepted to **Neurips'25**, congrats to Wenlin!
-- **[Aug. 2025]** Our paper about *Debias in RecSys* is accepted to **CIKM'25**, congrats to Yue Que!
-- **[May. 2025]** Our paper about *Cloud-Device Collaboration* is accepted to **KDD'25**!
-- **[Feb. 2025]** Our paper about *User Intent Recognition* is accepted to **WWW'25**, congrats to Zhipeng!
-- **[Feb. 2025]** Our BMI@DLUT win the <strong><i style="color:#e74d3c">🥉Bronze Medal</i></strong> at WWW compitition: Multimodal Dialogue System Intent Recognition Challenge!
-- **[Sep. 2024]** I start the joint PhD. program bewteen DUT and CityU, joint supervised by Prof. Xianneng Li (at DUT) and Prof.Xiangyu Zhao (at CityU).
-- **[Aug. 2024]** Our BMI@DLUT team awarded the <strong><i style="color:#e74d3c">🥈Second Prize</i></strong> and <strong><i style="color:#e74d3c">Student Award</i></strong> in the KDD Cup 2024, User Behavior Alignment Track!
-- **[Nov. 2023]** Our paper about *Debias in RecSys* is accepted to **CAI'23**, congrats to Yudi!
-- **[Sep. 2023]** Our BMI@DLUT win the <strong><i style="color:#e74d3c">🥉National Third Place</i></strong> at Supreme People’s Procuratorate National Procuratorate Big Data Legal Supervision!
-- **[Sep. 2023]** I am awarded the <strong><i style="color:#e74d3c">Outstanding Graduate Student</i></strong> prize at DUT!
-- **[Jun. 2023]** Our paper about *Multi-Task in RecSys* is accepted to **RecSys'23**, congrats to Zerong!
-- **[Jan. 2023]** Our paper about *Multi-Domain in RecSys* is accepted to **WWW'23**!
-- **[Jan. 2023]** Our paper about *User Modelling in RecSys* is accepted to **Journal of Management Sciences in China**, the Top 1 Chinese journal in Management and Science!
-- **[Sep. 2022]** I start my PhD. career at DUT, supervised by Prof. Xianneng Li.
-- **[Sep. 2021]** I start the research intern at Meituan in the search group.
-
-</details>
+{% include_relative _includes/news.md %}
 
 
 {% include_relative _includes/awards.md %}

@@ -4,8 +4,17 @@
 @import "minimal-light-no-dark-mode";
 
 // News 折叠：默认展示最新 10 条，其余通过 <details> 展开
+.news {
+  margin-bottom: 24px;
+
+  > ul {
+    margin-bottom: 4px;
+  }
+}
+
 .news-more {
   summary {
+    margin-left: 24px;
     cursor: pointer;
     color: #39c;
     font-size: 0.95rem;
@@ -32,60 +41,45 @@
   }
 
   ul {
-    margin-top: 0.6rem;
+    margin: 8px 0 0;
   }
 }
 
-// Awards：年份胶囊 + 奖项名（高亮）+ 描述（次级灰），整行 hover 浅色高亮
+// Awards：年份、奖项、描述三列对齐，奖项名沿用 News 的强调红色。
 .awards {
   .award-list {
-    list-style: none;
-    padding: 0;
+    list-style: disc;
+    padding-left: 40px;
     margin: 0 0 20px;
   }
 
   .award-item {
-    display: flex;
-    align-items: flex-start;
-    gap: 0.75rem;
-    padding: 0.45rem 0.6rem;
-    border-radius: 6px;
-    transition: background-color 0.2s ease;
+    margin-bottom: 0.2em;
+  }
 
-    &:hover {
-      background-color: #f2f7fc;
-    }
+  .award-row {
+    display: grid;
+    grid-template-columns: 3.3em minmax(0, 1fr) minmax(0, 1.7fr);
+    column-gap: 0.75em;
+    align-items: baseline;
   }
 
   .award-year {
-    flex: 0 0 auto;
-    min-width: 3.4em;
-    margin-top: 0.12rem;
-    text-align: center;
-    padding: 0.12rem 0.5rem;
-    border-radius: 999px;
-    background-color: #e8f0f9;
-    color: #043361;
-    font-size: 0.8rem;
+    color: #222;
     font-weight: 600;
-    letter-spacing: 0.02em;
-  }
-
-  .award-body {
-    display: flex;
-    flex-direction: column;
-    gap: 0.1rem;
+    white-space: nowrap;
   }
 
   .award-title {
+    min-width: 0;
     color: #e74d3c;
     font-weight: 600;
-    line-height: 1.4;
+    overflow-wrap: break-word;
   }
 
   .award-desc {
-    color: #777;
-    font-size: 0.9rem;
-    line-height: 1.45;
+    min-width: 0;
+    color: inherit;
+    overflow-wrap: break-word;
   }
 }

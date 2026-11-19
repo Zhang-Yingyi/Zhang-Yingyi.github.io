@@ -1,15 +1,15 @@
 awards:
 - title: "Best Student Full Research Paper"
-  desc: "CIKM'26"
+  desc: "ACM International Conference on Information and Knowledge Management 2026"
   date: 2026
 - title: "Top Reviewer"
-  desc: "NIPS'26 (~400 USD)"
+  desc: "Conference on Neural Information Processing Systems 2026 (~400 USD)"
   date: 2026
 - title: "Volunteer"
-  desc: "ICLR'26 (~400 USD)"
+  desc: "International Conference on Learning Representations 2026 (~400 USD)"
   date: 2026
 - title: "Student Scholarship"
-  desc: "AAAI'26 (1,000 USD)"
+  desc: "AAAI Conference on Artificial Intelligence 2026 (1,000 USD)"
   date: 2026
 - title: "🥉 Bronze Medal"
   desc: "WWW Competition: Multimodal Dialogue System Intent Recognition Challenge (7,000 CNY)"
