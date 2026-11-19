@@ -1,23 +1,34 @@
 awards:
-- name: "<strong>Best Student Full Research Paper</strong> prize at CIKM'26"
+- title: "Best Student Full Research Paper"
+  desc: "CIKM'26"
   date: 2026
-- name: "<strong>Top Reviewer</strong> prize at NIPS'26 (~400 USD)"
+- title: "Top Reviewer"
+  desc: "NIPS'26 (~400 USD)"
   date: 2026
-- name: "<strong>Volunteer</strong> prize at ICLR'26 (~400 USD)"
+- title: "Volunteer"
+  desc: "ICLR'26 (~400 USD)"
   date: 2026
-- name: "<strong>Student Scholarship</strong> prize at AAAI'26 (1,000 USD)"
+- title: "Student Scholarship"
+  desc: "AAAI'26 (1,000 USD)"
   date: 2026
-- name: "<strong>🥉Bronze medal</strong> at WWW compitition: Multimodal Dialogue System Intent Recognition Challenge (7,000 CNY)"
+- title: "🥉 Bronze Medal"
+  desc: "WWW Competition: Multimodal Dialogue System Intent Recognition Challenge (7,000 CNY)"
   date: 2025
-- name: "<strong>Graduate Research Fund of the School of Economics and Management of Dalian University of Technology</strong> (50,000 CNY)"
+- title: "Graduate Research Fund"
+  desc: "School of Economics and Management, Dalian University of Technology (50,000 CNY)"
   date: 2024
-- name: "<strong>🥈Second price and Student Award:</strong> in KDD Cup 2024 Multi-task Online Shopping Challenge for LLMs at User Behavior Alignment Track (1,750 USD)"
+- title: "🥈 Second Prize and Student Award"
+  desc: "KDD Cup 2024 Multi-task Online Shopping Challenge for LLMs, User Behavior Alignment Track (1,750 USD)"
   date: 2024
-- name: "<strong>National Third Prize:</strong> Supreme People’s Procuratorate National Procuratorate Big Data Legal Supervision"
+- title: "National Third Prize"
+  desc: "Supreme People's Procuratorate National Procuratorate Big Data Legal Supervision"
   date: 2023
-- name: <strong>Outstanding Graduate Student</strong>
+- title: "Outstanding Graduate Student"
+  desc: "Dalian University of Technology"
   date: 2023
-- name: "<strong>Commended Paper:</strong> The eleventh CNAIS Annual Conference"
+- title: "Commended Paper"
+  desc: "The 11th CNAIS Annual Conference"
   date: 2023
-- name: "<strong>Best Paper:</strong> The First Academic Conference on Data Intelligence and Management"
+- title: "Best Paper"
+  desc: "The First Academic Conference on Data Intelligence and Management"
   date: 2021

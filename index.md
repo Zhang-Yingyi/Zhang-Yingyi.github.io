@@ -25,6 +25,10 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
 - **[Aug. 2026]** Our paper about *Generative Rerank* is accepted to **CIKM'26**, congrats to Penyue!
 - **[Aug. 2026]** Our paper about *Agentic Search* is accepted to **CIKM'26**, congrats to Sheng!
 - **[May. 2026]** Our paper about *Tool-Integrated Agents* is accepted to **ICML'26** as <strong> <i style="color:#e74d3c">🌟Spotlight</i></strong>, congrats to Dr. Junyi!
+
+<details class="news-more" markdown="1">
+<summary><span class="news-more-show">Show earlier news (32)</span><span class="news-more-hide">Hide earlier news</span></summary>
+
 - **[Apr. 2026]** Our paper about *Geographic LVLM* is accepted to **ACL'26 Main**, congrats to Pengyue!
 - **[Apr. 2026]** Our paper about *Personalized LLM* is accepted to **ACL'26 Main**, congrats to Xiaopeng!
 - **[Apr. 2026]** Our paper about *Agentic Search* is accepted to **ACL'26 Main**, congrats to Sheng!
@@ -57,6 +61,8 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
 - **[Jan. 2023]** Our paper about *User Modelling in RecSys* is accepted to **Journal of Management Sciences in China**, the Top 1 Chinese journal in Management and Science!
 - **[Sep. 2022]** I start my PhD. career at DUT, supervised by Prof. Xianneng Li.
 - **[Sep. 2021]** I start the research intern at Meituan in the search group.
+
+</details>
 
 
 {% include_relative _includes/awards.md %}
@@ -121,12 +127,12 @@ I am now a fourth-year PhD candidate at the joint program between Dalian Univers
     - Yue Que, **Yingyi Zhang**, Xiangyu Zhao, Chen Ma. 
     **[Causality-aware Graph Aggregation Weight Estimator for Popularity Debiasing in Top-K Recommendation](https://arxiv.org/abs/2510.04502)**.
     *<i style="color:#e74d3c">Accepted at CIKM'25</i>*
-    - Yudi Xiao, **Yingyi Zhang**, Xianneng Li. 
-    **[Modeling Variational Anchoring Effect for Recommender Systems](https://ieeexplore.ieee.org/abstract/document/10605368)**.
-    *<i style="color:#e74d3c">Accepted at CAI'23</i>*
     - Zerong Lan, **Yingyi Zhang**, Xianneng Li. 
     **[M3REC: A Meta-based Multi-scenario Multi-task Recommendation Framework](https://dl.acm.org/doi/abs/10.1145/3604915.3608828)**.
     *<i style="color:#e74d3c">Accepted at RecSys'23</i>*
+    - Yudi Xiao, **Yingyi Zhang**, Xianneng Li. 
+    **[Modeling Variational Anchoring Effect for Recommender Systems](https://ieeexplore.ieee.org/abstract/document/10605368)**.
+    *<i style="color:#e74d3c">Accepted at CAI'23</i>*
     
     
 ## 💻 Internships
