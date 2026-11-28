@@ -1,7 +1,7 @@
 # 新增新闻时，在此列表顶部添加一个 - >- 条目，正文保持缩进。
 # 首页自动展示前 10 条，其余自动折叠，数量自动计算。
 - >-
-  **[Oct. 2026]** Our paper *GloRank* won the <strong><i style="color:#e74d3c">🏅Best Student Full Research Paper</i></strong> award at **CIKM'26**!
+  **[Nov. 2026]** Our paper *GloRank* won the <strong><i style="color:#e74d3c">🏅Best Student Full Research Paper</i></strong> award at **CIKM'26**!
 - >-
   **[Nov. 2026]** Our paper about *Review-Augmented Recommendation* is accepted to **WSDM'27 Findings**!
 - >-
